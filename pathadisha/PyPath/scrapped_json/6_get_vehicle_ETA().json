@@ -1,0 +1,366 @@
+{
+    "count": 0,
+    "data": {
+        "percentRouteCovered": 39,
+        "stopTimes": [
+            {
+                "distanceToReach": 0.0,
+                "ordinalPosition": 0,
+                "stop": {
+                    "stopId": 1258,
+                    "stopLat": 22.679944,
+                    "stopLon": 88.452271,
+                    "stopName": "BT COLLEGE (MADHYAMGRAM)"
+                },
+                "stopCrossed": true,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 0,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 0.0,
+                "ordinalPosition": 1,
+                "stop": {
+                    "stopId": 432,
+                    "stopLat": 22.659371,
+                    "stopLon": 88.441468,
+                    "stopName": "BIRATI MORE"
+                },
+                "stopCrossed": true,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 0,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 0.0,
+                "ordinalPosition": 2,
+                "stop": {
+                    "stopId": 2,
+                    "stopLat": 22.652987,
+                    "stopLon": 88.438289,
+                    "stopName": "AIRPORT (GATE NO.3)"
+                },
+                "stopCrossed": true,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 0,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 0.0,
+                "ordinalPosition": 3,
+                "stop": {
+                    "stopId": 1,
+                    "stopLat": 22.642036,
+                    "stopLon": 88.431122,
+                    "stopName": "AIRPORT (GATE NO.1)"
+                },
+                "stopCrossed": true,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 0,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 0.0,
+                "ordinalPosition": 4,
+                "stop": {
+                    "stopId": 147,
+                    "stopLat": 22.622805,
+                    "stopLon": 88.414278,
+                    "stopName": "NAGER BAZAR"
+                },
+                "stopCrossed": true,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 0,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 0.0,
+                "ordinalPosition": 5,
+                "stop": {
+                    "stopId": 1397,
+                    "stopLat": 22.615983,
+                    "stopLon": 88.41213,
+                    "stopName": "DIAMOND CITY"
+                },
+                "stopCrossed": true,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 0,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 0.0,
+                "ordinalPosition": 6,
+                "stop": {
+                    "stopId": 1398,
+                    "stopLat": 22.611157,
+                    "stopLon": 88.409271,
+                    "stopName": "BANGUR (JESSORE ROAD)"
+                },
+                "stopCrossed": true,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 0,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 0.0,
+                "ordinalPosition": 7,
+                "stop": {
+                    "stopId": 441,
+                    "stopLat": 22.603222,
+                    "stopLon": 88.412211,
+                    "stopName": "BANGUR"
+                },
+                "stopCrossed": true,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 0,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 0.0,
+                "ordinalPosition": 8,
+                "stop": {
+                    "stopId": 444,
+                    "stopLat": 22.589769,
+                    "stopLon": 88.393304,
+                    "stopName": "ULTADANGA HUDCO"
+                },
+                "stopCrossed": true,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 0,
+                "timeWhenReached": 1547290321000
+            },
+            {
+                "distanceToReach": 549.0,
+                "ordinalPosition": 9,
+                "stop": {
+                    "stopId": 119,
+                    "stopLat": 22.580254,
+                    "stopLon": 88.390589,
+                    "stopName": "KANKURGACHI"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 108,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 1504.0,
+                "ordinalPosition": 10,
+                "stop": {
+                    "stopId": 161,
+                    "stopLat": 22.572249,
+                    "stopLon": 88.389473,
+                    "stopName": "PHOOLBAGAN"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 252,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 2840.0,
+                "ordinalPosition": 11,
+                "stop": {
+                    "stopId": 58,
+                    "stopLat": 22.562877,
+                    "stopLon": 88.396286,
+                    "stopName": "CIT MORE (BELEGHATA)"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 613,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 6244.0,
+                "ordinalPosition": 12,
+                "stop": {
+                    "stopId": 183,
+                    "stopLat": 22.565731,
+                    "stopLon": 88.368938,
+                    "stopName": "SEALDAH"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 1410,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 6962.0,
+                "ordinalPosition": 13,
+                "stop": {
+                    "stopId": 143,
+                    "stopLat": 22.561822,
+                    "stopLon": 88.367361,
+                    "stopName": "MOULALI"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 1535,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 8327.0,
+                "ordinalPosition": 14,
+                "stop": {
+                    "stopId": 155,
+                    "stopLat": 22.550393,
+                    "stopLon": 88.362906,
+                    "stopName": "NONAPUKUR"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 1692,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 8793.0,
+                "ordinalPosition": 15,
+                "stop": {
+                    "stopId": 136,
+                    "stopLat": 22.546677,
+                    "stopLon": 88.36146,
+                    "stopName": "MALLICK BAZAR"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 1843,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 11197.0,
+                "ordinalPosition": 16,
+                "stop": {
+                    "stopId": 157,
+                    "stopLat": 22.54308,
+                    "stopLon": 88.366213,
+                    "stopName": "PARK CIRCUS 7 POINT CROSSING"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 1976,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 11197.0,
+                "ordinalPosition": 17,
+                "stop": {
+                    "stopId": 23,
+                    "stopLat": 22.528176,
+                    "stopLon": 88.365998,
+                    "stopName": "BALLYGUNGE PHARI"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 2426,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 12184.0,
+                "ordinalPosition": 18,
+                "stop": {
+                    "stopId": 91,
+                    "stopLat": 22.519574,
+                    "stopLon": 88.365312,
+                    "stopName": "GARIAHAT"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 2625,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 12659.0,
+                "ordinalPosition": 19,
+                "stop": {
+                    "stopId": 95,
+                    "stopLat": 22.515578,
+                    "stopLon": 88.366821,
+                    "stopName": "GOL PARK"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 2769,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 14079.0,
+                "ordinalPosition": 20,
+                "stop": {
+                    "stopId": 111,
+                    "stopLat": 22.502976,
+                    "stopLon": 88.367774,
+                    "stopName": "JADAVPUR POLICE STATION"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 3066,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 15153.0,
+                "ordinalPosition": 21,
+                "stop": {
+                    "stopId": 132,
+                    "stopLat": 22.501912,
+                    "stopLon": 88.357801,
+                    "stopName": "LORDS MORE"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 3341,
+                "timeWhenReached": null
+            },
+            {
+                "distanceToReach": 16958.0,
+                "ordinalPosition": 22,
+                "stop": {
+                    "stopId": 96,
+                    "stopLat": 22.490731,
+                    "stopLon": 88.360677,
+                    "stopName": "GOLF GREEN"
+                },
+                "stopCrossed": false,
+                "timeExpectedToReach": null,
+                "timeToReachInSec": 3630,
+                "timeWhenReached": null
+            }
+        ],
+        "vehicleStatus": {
+            "angle": 192,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.584345,
+                "longitude": 88.391785
+            },
+            "lastTime": 1547290700000,
+            "outOfPath": false,
+            "routeCode": "223:DN",
+            "speed": 8.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 182362,
+                "vehicleRegNo": "WB04E5881",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04E5881",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        }
+    },
+    "duration": 0,
+    "message": "",
+    "requestId": null,
+    "status": "SUCCESS"
+}

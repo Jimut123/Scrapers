@@ -1,0 +1,450 @@
+{
+    "count": 63,
+    "data": [
+        {
+            "linkId": 505,
+            "pointLat": 22.565853,
+            "pointLng": 88.368879,
+            "pointSequence": 0,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.566309,
+            "pointLng": 88.369067,
+            "pointSequence": 1,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.56652,
+            "pointLng": 88.369166,
+            "pointSequence": 2,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.566526,
+            "pointLng": 88.369167,
+            "pointSequence": 3,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.566789,
+            "pointLng": 88.369286,
+            "pointSequence": 4,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.566821,
+            "pointLng": 88.369299,
+            "pointSequence": 5,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.566859,
+            "pointLng": 88.369318,
+            "pointSequence": 6,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.566998,
+            "pointLng": 88.369377,
+            "pointSequence": 7,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.567031,
+            "pointLng": 88.369395,
+            "pointSequence": 8,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.567141,
+            "pointLng": 88.369442,
+            "pointSequence": 9,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.568591,
+            "pointLng": 88.370148,
+            "pointSequence": 10,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.568654,
+            "pointLng": 88.370184,
+            "pointSequence": 11,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.568697,
+            "pointLng": 88.370204,
+            "pointSequence": 12,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.569408,
+            "pointLng": 88.370546,
+            "pointSequence": 13,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.56986,
+            "pointLng": 88.370764,
+            "pointSequence": 14,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.569995,
+            "pointLng": 88.370827,
+            "pointSequence": 15,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.570091,
+            "pointLng": 88.370882,
+            "pointSequence": 16,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.570178,
+            "pointLng": 88.370927,
+            "pointSequence": 17,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.570341,
+            "pointLng": 88.371004,
+            "pointSequence": 18,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.570496,
+            "pointLng": 88.371076,
+            "pointSequence": 19,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.570531,
+            "pointLng": 88.371092,
+            "pointSequence": 20,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.570594,
+            "pointLng": 88.371122,
+            "pointSequence": 21,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.570688,
+            "pointLng": 88.371166,
+            "pointSequence": 22,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.570775,
+            "pointLng": 88.371207,
+            "pointSequence": 23,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.57083,
+            "pointLng": 88.371235,
+            "pointSequence": 24,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.570866,
+            "pointLng": 88.371253,
+            "pointSequence": 25,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.570923,
+            "pointLng": 88.371283,
+            "pointSequence": 26,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.571006,
+            "pointLng": 88.371325,
+            "pointSequence": 27,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.571043,
+            "pointLng": 88.371342,
+            "pointSequence": 28,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.571301,
+            "pointLng": 88.371464,
+            "pointSequence": 29,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.571493,
+            "pointLng": 88.371562,
+            "pointSequence": 30,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.571897,
+            "pointLng": 88.371768,
+            "pointSequence": 31,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.572166,
+            "pointLng": 88.371897,
+            "pointSequence": 32,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.572541,
+            "pointLng": 88.372077,
+            "pointSequence": 33,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.572629,
+            "pointLng": 88.372119,
+            "pointSequence": 34,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.573079,
+            "pointLng": 88.37234,
+            "pointSequence": 35,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.573155,
+            "pointLng": 88.372377,
+            "pointSequence": 36,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.573366,
+            "pointLng": 88.372478,
+            "pointSequence": 37,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.573691,
+            "pointLng": 88.372625,
+            "pointSequence": 38,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.573778,
+            "pointLng": 88.372665,
+            "pointSequence": 39,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.573811,
+            "pointLng": 88.37268,
+            "pointSequence": 40,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.574334,
+            "pointLng": 88.372917,
+            "pointSequence": 41,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.574346,
+            "pointLng": 88.372922,
+            "pointSequence": 42,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.57442,
+            "pointLng": 88.372952,
+            "pointSequence": 43,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.574764,
+            "pointLng": 88.373094,
+            "pointSequence": 44,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.574878,
+            "pointLng": 88.373132,
+            "pointSequence": 45,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.575041,
+            "pointLng": 88.373186,
+            "pointSequence": 46,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.575071,
+            "pointLng": 88.373194,
+            "pointSequence": 47,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.575256,
+            "pointLng": 88.373245,
+            "pointSequence": 48,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.575497,
+            "pointLng": 88.37331,
+            "pointSequence": 49,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.57561,
+            "pointLng": 88.373336,
+            "pointSequence": 50,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.575625,
+            "pointLng": 88.373341,
+            "pointSequence": 51,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.575964,
+            "pointLng": 88.373403,
+            "pointSequence": 52,
+            "routeId": 5541
+        },
+        {
+            "linkId": 505,
+            "pointLat": 22.576621,
+            "pointLng": 88.373521,
+            "pointSequence": 53,
+            "routeId": 5541
+        },
+        {
+            "linkId": 463,
+            "pointLat": 22.57662,
+            "pointLng": 88.37347,
+            "pointSequence": 0,
+            "routeId": 5541
+        },
+        {
+            "linkId": 463,
+            "pointLat": 22.57917,
+            "pointLng": 88.37384,
+            "pointSequence": 1,
+            "routeId": 5541
+        },
+        {
+            "linkId": 463,
+            "pointLat": 22.58048,
+            "pointLng": 88.37403,
+            "pointSequence": 2,
+            "routeId": 5541
+        },
+        {
+            "linkId": 463,
+            "pointLat": 22.58066,
+            "pointLng": 88.37407,
+            "pointSequence": 3,
+            "routeId": 5541
+        },
+        {
+            "linkId": 463,
+            "pointLat": 22.58173,
+            "pointLng": 88.37421,
+            "pointSequence": 4,
+            "routeId": 5541
+        },
+        {
+            "linkId": 463,
+            "pointLat": 22.58267,
+            "pointLng": 88.37437,
+            "pointSequence": 5,
+            "routeId": 5541
+        },
+        {
+            "linkId": 463,
+            "pointLat": 22.58325,
+            "pointLng": 88.37446,
+            "pointSequence": 6,
+            "routeId": 5541
+        },
+        {
+            "linkId": 463,
+            "pointLat": 22.58409,
+            "pointLng": 88.37456,
+            "pointSequence": 7,
+            "routeId": 5541
+        },
+        {
+            "linkId": 463,
+            "pointLat": 22.5853,
+            "pointLng": 88.37468,
+            "pointSequence": 8,
+            "routeId": 5541
+        }
+    ],
+    "duration": 0,
+    "message": "",
+    "requestId": "ff8c9eb4-1230-c1cb-97394afe46d6",
+    "status": "SUCCESS"
+}

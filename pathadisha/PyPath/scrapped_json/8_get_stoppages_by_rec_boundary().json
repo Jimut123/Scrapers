@@ -1,0 +1,2736 @@
+{
+    "count": 303,
+    "data": [
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1312,
+            "stopLat": 22.640917,
+            "stopLon": 88.432121,
+            "stopName": "AIRPORT GATE NO 1 (AUTO STAND)"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "TERMINAL",
+            "stopId": 1,
+            "stopLat": 22.642036,
+            "stopLon": 88.431122,
+            "stopName": "AIRPORT (GATE NO.1)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1392,
+            "stopLat": 22.638994,
+            "stopLon": 88.42818,
+            "stopName": "HMV"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1771,
+            "stopLat": 22.633348,
+            "stopLon": 88.423573,
+            "stopName": "DUMDUM POST OFFICE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1313,
+            "stopLat": 22.648547,
+            "stopLon": 88.435851,
+            "stopName": "AIRPORT GATE NO 2"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "JUNCTION",
+            "stopId": 116,
+            "stopLat": 22.63446,
+            "stopLon": 88.43456,
+            "stopName": "KAIKHALI"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "TERMINAL",
+            "stopId": 742,
+            "stopLat": 22.644632,
+            "stopLon": 88.439038,
+            "stopName": "AIRPORT OLD BUS TERMINUS"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1833,
+            "stopLat": 22.635945,
+            "stopLon": 88.440628,
+            "stopName": "MANGALAM VIDYA NIKETAN"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1835,
+            "stopLat": 22.637493,
+            "stopLon": 88.450647,
+            "stopName": "GOPALPUR HOUSE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1877,
+            "stopLat": 22.633681,
+            "stopLon": 88.461845,
+            "stopName": "DEROZIO MEMORIAL COLLEGE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2380,
+            "stopLat": 22.636434,
+            "stopLon": 88.452871,
+            "stopName": "KALI PARK"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 3033,
+            "stopLat": 22.640736,
+            "stopLon": 88.457417,
+            "stopName": "LALKUTHI (RAJARHAT)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2381,
+            "stopLat": 22.644979,
+            "stopLon": 88.462058,
+            "stopName": "NARAYANPUR (RAJARHAT)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 3034,
+            "stopLat": 22.645219,
+            "stopLon": 88.461287,
+            "stopName": "NARAYANPUR  BATTALA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 3031,
+            "stopLat": 22.634093,
+            "stopLon": 88.453684,
+            "stopName": "BABLATALA  (RAJARHAT RD )"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 3032,
+            "stopLat": 22.636119,
+            "stopLon": 88.454421,
+            "stopName": "217B BUS STAND"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2846,
+            "stopLat": 22.63541,
+            "stopLon": 88.478592,
+            "stopName": "LOTUS HOSPITAL (RAJARHAT)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1841,
+            "stopLat": 22.639568,
+            "stopLon": 88.473864,
+            "stopName": "MANIKHOLA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1860,
+            "stopLat": 22.662524,
+            "stopLon": 88.417279,
+            "stopName": "PATHANPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 74,
+            "stopLat": 22.65507,
+            "stopLon": 88.421841,
+            "stopName": "DURGA NAGAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1861,
+            "stopLat": 22.663481,
+            "stopLon": 88.422488,
+            "stopName": "BIRATI COLLEGE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 44,
+            "stopLat": 22.663418,
+            "stopLon": 88.428821,
+            "stopName": "BIRATI"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "TERMINAL",
+            "stopId": 2,
+            "stopLat": 22.652987,
+            "stopLon": 88.438289,
+            "stopName": "AIRPORT (GATE NO.3)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 432,
+            "stopLat": 22.659371,
+            "stopLon": 88.441468,
+            "stopName": "BIRATI MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 431,
+            "stopLat": 22.661978,
+            "stopLon": 88.442551,
+            "stopName": "BAKRA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 433,
+            "stopLat": 22.655826,
+            "stopLon": 88.439977,
+            "stopName": "SARAT COLONY"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2855,
+            "stopLat": 22.653989,
+            "stopLon": 88.683804,
+            "stopName": "HAMADAMA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2856,
+            "stopLat": 22.662655,
+            "stopLon": 88.684338,
+            "stopName": "HAROA STATION RD"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2518,
+            "stopLat": 22.663126,
+            "stopLon": 88.858868,
+            "stopName": "BASIRHAT POLICE STATION"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2814,
+            "stopLat": 22.662665,
+            "stopLon": 88.868477,
+            "stopName": "BASIRHAT JAMRULTALA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2813,
+            "stopLat": 22.663194,
+            "stopLon": 88.871234,
+            "stopName": "BASIRHAT JAIL MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2385,
+            "stopLat": 22.666263,
+            "stopLon": 88.871328,
+            "stopName": "SANGRAMPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2812,
+            "stopLat": 22.663373,
+            "stopLon": 88.872312,
+            "stopName": "BASIRHAT FIRE BRIGADE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 430,
+            "stopLat": 22.668509,
+            "stopLon": 88.444815,
+            "stopName": "MICHAEL NAGAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 429,
+            "stopLat": 22.674805,
+            "stopLon": 88.445481,
+            "stopName": "SUKANTA NAGAR (BIRATI)"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "JUNCTION",
+            "stopId": 427,
+            "stopLat": 22.682457,
+            "stopLon": 88.462153,
+            "stopName": "DOLTALA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1258,
+            "stopLat": 22.679944,
+            "stopLon": 88.452271,
+            "stopName": "BT COLLEGE (MADHYAMGRAM)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 757,
+            "stopLat": 22.675002,
+            "stopLon": 88.457713,
+            "stopName": "GANGA NAGAR (JULIEN DAY SCHOOL)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2857,
+            "stopLat": 22.673183,
+            "stopLon": 88.685317,
+            "stopName": "HADIPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2512,
+            "stopLat": 22.680215,
+            "stopLon": 88.778759,
+            "stopName": "BENKI TAKI RD"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2513,
+            "stopLat": 22.674688,
+            "stopLon": 88.793887,
+            "stopName": "GOPALPUR MORE TAKI RD"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2780,
+            "stopLat": 22.683002,
+            "stopLon": 88.814825,
+            "stopName": "KHOLAPOTA BDO OFFICE (TAKI RD)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2384,
+            "stopLat": 22.682907,
+            "stopLon": 88.812351,
+            "stopName": "KHOLAPOTA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2514,
+            "stopLat": 22.682464,
+            "stopLon": 88.827831,
+            "stopName": "RAGHUNATHPUR TAKI RD"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2781,
+            "stopLat": 22.683056,
+            "stopLon": 88.820876,
+            "stopName": "PALPARA BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2517,
+            "stopLat": 22.670968,
+            "stopLon": 88.847749,
+            "stopName": "BASIRHAT COLLEGE BUS STAND"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2516,
+            "stopLat": 22.679371,
+            "stopLon": 88.837526,
+            "stopName": "HARISHPUR TAKI RD"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2782,
+            "stopLat": 22.668643,
+            "stopLon": 88.851312,
+            "stopName": "BASIRHAT TRIMOHINI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 420,
+            "stopLat": 22.698107,
+            "stopLon": 88.427435,
+            "stopName": "BOJGHAR (MADHYAMGRAM ROAD)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 419,
+            "stopLat": 22.696483,
+            "stopLon": 88.418938,
+            "stopName": "MURAGACHA (KALYANI EXPRESSWAY)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 421,
+            "stopLat": 22.697255,
+            "stopLon": 88.441468,
+            "stopName": "SAJIRHAT (NEW BARRACKPUR)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 423,
+            "stopLat": 22.696167,
+            "stopLon": 88.449665,
+            "stopName": "ARATI CHINEMA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2993,
+            "stopLat": 22.686888,
+            "stopLon": 88.445148,
+            "stopName": "NEW BARRACKPORE STATION"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 424,
+            "stopLat": 22.694909,
+            "stopLon": 88.45783,
+            "stopName": "MADHYAMGRAM STATION"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 426,
+            "stopLat": 22.685684,
+            "stopLon": 88.463237,
+            "stopName": "NEW BARRACKPORE"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "JUNCTION",
+            "stopId": 425,
+            "stopLat": 22.692415,
+            "stopLon": 88.465372,
+            "stopName": "MADHYAMGRAM CHOWMATHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 133,
+            "stopLat": 22.693022,
+            "stopLon": 88.463481,
+            "stopName": "MADHYAMGRAM"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2506,
+            "stopLat": 22.698215,
+            "stopLon": 88.598126,
+            "stopName": "KACHKOL"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 3035,
+            "stopLat": 22.697733,
+            "stopLon": 88.610158,
+            "stopName": "BELIAGHATA  (TAKI RD.)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 3014,
+            "stopLat": 22.698827,
+            "stopLon": 88.623255,
+            "stopName": "BALIA GATE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 3013,
+            "stopLat": 22.697535,
+            "stopLon": 88.639075,
+            "stopName": "KARTIK PUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2464,
+            "stopLat": 22.697875,
+            "stopLon": 88.638151,
+            "stopName": "KARTIKPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2463,
+            "stopLat": 22.694596,
+            "stopLon": 88.642991,
+            "stopName": "DEGENGA PS."
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2462,
+            "stopLat": 22.687328,
+            "stopLon": 88.653886,
+            "stopName": "DEGENGA BAZAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1549,
+            "stopLat": 22.687565,
+            "stopLon": 88.653556,
+            "stopName": "DEGANGA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2459,
+            "stopLat": 22.698693,
+            "stopLon": 88.697424,
+            "stopName": "SAHIDULLA COLLEGE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 848,
+            "stopLat": 22.695736,
+            "stopLon": 88.68804,
+            "stopName": "BERACHAMPA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1551,
+            "stopLat": 22.69559,
+            "stopLon": 88.695019,
+            "stopName": "BERACHAMPA BADURIA MORE BUS STAND"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2507,
+            "stopLat": 22.695887,
+            "stopLon": 88.688401,
+            "stopName": "BERACHAMPA CHOWMATHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2508,
+            "stopLat": 22.692628,
+            "stopLon": 88.702409,
+            "stopName": "KAUKEPARA TAKI RD"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2510,
+            "stopLat": 22.690328,
+            "stopLon": 88.730314,
+            "stopName": "SWARUPNAGAR TAKI RD"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2511,
+            "stopLat": 22.691985,
+            "stopLon": 88.750004,
+            "stopName": "NEHALPUR TAKI RD"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2779,
+            "stopLat": 22.689929,
+            "stopLon": 88.762268,
+            "stopName": "MATIA BAZAR (TAKI RD)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2004,
+            "stopLat": 22.712815,
+            "stopLon": 88.480318,
+            "stopName": "BARASAT HATKHOLA"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "JUNCTION",
+            "stopId": 471,
+            "stopLat": 22.711431,
+            "stopLon": 88.47558,
+            "stopName": "BARASAT (DAK BANGLOW)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 503,
+            "stopLat": 22.701426,
+            "stopLon": 88.470444,
+            "stopName": "SISIR KUNJA ( HRIDAYPUR)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 3009,
+            "stopLat": 22.715362,
+            "stopLon": 88.491805,
+            "stopName": "JAMTALA KALIKAPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 3010,
+            "stopLat": 22.714937,
+            "stopLon": 88.501283,
+            "stopName": "KAZIPARA (BARASAT)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 3012,
+            "stopLat": 22.712104,
+            "stopLon": 88.513827,
+            "stopName": "JDS COLLEGE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1968,
+            "stopLat": 22.713856,
+            "stopLon": 88.505096,
+            "stopName": "BARASAT KAZIPARA BUS DEPOT"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2471,
+            "stopLat": 22.712169,
+            "stopLon": 88.513879,
+            "stopName": "BAMONMURA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1546,
+            "stopLat": 22.710396,
+            "stopLon": 88.5276,
+            "stopName": "DHARMATALA (BARASAT)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 3011,
+            "stopLat": 22.711334,
+            "stopLon": 88.516684,
+            "stopName": "BAMANGACHI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1545,
+            "stopLat": 22.710834,
+            "stopLon": 88.522874,
+            "stopName": "PIRGACHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1547,
+            "stopLat": 22.708907,
+            "stopLon": 88.543683,
+            "stopName": "KADAMBAGACHI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1548,
+            "stopLat": 22.70316,
+            "stopLon": 88.574423,
+            "stopName": "GOLABARI BAZAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 3036,
+            "stopLat": 22.702514,
+            "stopLon": 88.574908,
+            "stopName": "GOLABARI (TAKI  RD.)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2465,
+            "stopLat": 22.702596,
+            "stopLon": 88.574744,
+            "stopName": "GOLABARI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2458,
+            "stopLat": 22.700687,
+            "stopLon": 88.698985,
+            "stopName": "KAUKEPARA BATTALA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2721,
+            "stopLat": 22.710769,
+            "stopLon": 88.706867,
+            "stopName": "NAGAR KACHUA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 810,
+            "stopLat": 22.723258,
+            "stopLon": 88.478498,
+            "stopName": "COLONY MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2346,
+            "stopLat": 22.727184,
+            "stopLon": 88.475722,
+            "stopName": "KALIBARI BARASART"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2254,
+            "stopLat": 22.724586,
+            "stopLon": 88.47893,
+            "stopName": "HELA BATTALA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2770,
+            "stopLat": 22.722465,
+            "stopLon": 88.491106,
+            "stopName": "BARASAT GOVT. HOSPITAL"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2769,
+            "stopLat": 22.719366,
+            "stopLon": 88.486612,
+            "stopName": "CHAMPADALI MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 839,
+            "stopLat": 22.718664,
+            "stopLon": 88.48814,
+            "stopName": "KAJI PARA (BARASAT)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 28,
+            "stopLat": 22.720041,
+            "stopLon": 88.486644,
+            "stopName": "BARASAT BUS STAND"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "TERMINAL",
+            "stopId": 469,
+            "stopLat": 22.719161,
+            "stopLon": 88.485493,
+            "stopName": "BARASAT (CHAPADALI)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2719,
+            "stopLat": 22.730805,
+            "stopLon": 88.502548,
+            "stopName": "KAZIPARA (JS. ROAD)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2457,
+            "stopLat": 22.727087,
+            "stopLon": 88.72327,
+            "stopName": "KHASHPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1552,
+            "stopLat": 22.722667,
+            "stopLon": 88.717127,
+            "stopName": "AGAPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2452,
+            "stopLat": 22.73197,
+            "stopLon": 88.764517,
+            "stopName": "BANSTALA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2451,
+            "stopLat": 22.732805,
+            "stopLon": 88.771565,
+            "stopName": "ISWARI GACHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2351,
+            "stopLat": 22.739319,
+            "stopLon": 88.437855,
+            "stopName": "BARASAT STATE UNIVERSITY"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2348,
+            "stopLat": 22.747628,
+            "stopLon": 88.448326,
+            "stopName": "KAZIBARI  BARASAT"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2509,
+            "stopLat": 22.739318,
+            "stopLon": 88.437881,
+            "stopName": "KINGSTON LAW COLLEGE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2349,
+            "stopLat": 22.740916,
+            "stopLon": 88.435163,
+            "stopName": "SBIHM SCHOOL HOTEL MAGAMENT"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2350,
+            "stopLat": 22.740916,
+            "stopLon": 88.435163,
+            "stopName": "NARAYANPUR MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2255,
+            "stopLat": 22.747676,
+            "stopLon": 88.448271,
+            "stopName": "KAZI BARI (UNIVERSITY)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2347,
+            "stopLat": 22.736585,
+            "stopLon": 88.463096,
+            "stopName": "LOKNATH MANDIR BARASAT"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2474,
+            "stopLat": 22.734584,
+            "stopLon": 88.481577,
+            "stopName": "MOYNAHAT NOAPARA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2403,
+            "stopLat": 22.742429,
+            "stopLon": 88.513688,
+            "stopName": "BAMONGACHI (JESSORE ROAD)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1992,
+            "stopLat": 22.745812,
+            "stopLon": 88.520012,
+            "stopName": "BAMUNGACHI STATION ROAD (BARASAT)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1553,
+            "stopLat": 22.733353,
+            "stopLon": 88.735197,
+            "stopName": "JADURHATI NATUNHAT"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2455,
+            "stopLat": 22.735182,
+            "stopLon": 88.73914,
+            "stopName": "PURTAN HAT"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2454,
+            "stopLat": 22.734973,
+            "stopLon": 88.74461,
+            "stopName": "JADURHATI MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2453,
+            "stopLat": 22.734718,
+            "stopLon": 88.753574,
+            "stopName": "GOKNA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1555,
+            "stopLat": 22.734788,
+            "stopLon": 88.782961,
+            "stopName": "BADURIA BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1554,
+            "stopLat": 22.733815,
+            "stopLon": 88.77903,
+            "stopName": "DHALIPARA MORE BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2496,
+            "stopLat": 22.743619,
+            "stopLon": 88.790812,
+            "stopName": "KANKRASUTI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2753,
+            "stopLat": 22.743308,
+            "stopLon": 88.788346,
+            "stopName": "BADURIA BUS TERMINUS"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2809,
+            "stopLat": 22.735375,
+            "stopLon": 88.787502,
+            "stopName": "BADURIA NATUN BAZAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2257,
+            "stopLat": 22.758996,
+            "stopLon": 88.433043,
+            "stopName": "NILGUANGE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2258,
+            "stopLat": 22.761695,
+            "stopLon": 88.42722,
+            "stopName": "SAHEB BAGAN BARASAT"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "TERMINAL",
+            "stopId": 659,
+            "stopLat": 22.762218,
+            "stopLon": 88.418441,
+            "stopName": "NILGUNGE BUS DEPOT"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2256,
+            "stopLat": 22.756086,
+            "stopLon": 88.436927,
+            "stopName": "RANGAPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2495,
+            "stopLat": 22.753901,
+            "stopLon": 88.489146,
+            "stopName": "ALGARIA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1993,
+            "stopLat": 22.76077,
+            "stopLon": 88.547961,
+            "stopName": "DUTTAPUKUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2295,
+            "stopLat": 22.760821,
+            "stopLon": 88.548025,
+            "stopName": "DUTTA PUKUR STN ROAD"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2810,
+            "stopLat": 22.750199,
+            "stopLon": 88.794984,
+            "stopName": "BATTOLA MORE BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2499,
+            "stopLat": 22.761159,
+            "stopLon": 88.856097,
+            "stopName": "BABU RASTA MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2500,
+            "stopLat": 22.752434,
+            "stopLon": 88.864627,
+            "stopName": "ATURIA BAZAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2501,
+            "stopLat": 22.759931,
+            "stopLon": 88.882078,
+            "stopName": "BARA BANKRA BRIDGE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2502,
+            "stopLat": 22.761015,
+            "stopLon": 88.889356,
+            "stopName": "BARA BANKRA HOSPITAL MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2475,
+            "stopLat": 22.771526,
+            "stopLon": 88.495446,
+            "stopName": "MIRHATI BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2476,
+            "stopLat": 22.775955,
+            "stopLon": 88.500025,
+            "stopName": "SANTASPUR (DUTTAPUKUR)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2477,
+            "stopLat": 22.779402,
+            "stopLon": 88.502057,
+            "stopName": "KAMDEVPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2294,
+            "stopLat": 22.781805,
+            "stopLon": 88.575104,
+            "stopName": "BIRA CHOWMATHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1994,
+            "stopLat": 22.776032,
+            "stopLon": 88.568557,
+            "stopName": "JOYPUL"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1995,
+            "stopLat": 22.781794,
+            "stopLon": 88.575076,
+            "stopName": "BIRA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2811,
+            "stopLat": 22.769815,
+            "stopLon": 88.816182,
+            "stopName": "MASIA BAZAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2503,
+            "stopLat": 22.767291,
+            "stopLon": 88.902541,
+            "stopName": "KAIJURI SCHOOL"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2504,
+            "stopLat": 22.769165,
+            "stopLon": 88.906706,
+            "stopName": "KAIJURI BAZAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2478,
+            "stopLat": 22.794625,
+            "stopLon": 88.505018,
+            "stopName": "KHALIA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1997,
+            "stopLat": 22.794527,
+            "stopLon": 88.592236,
+            "stopName": "LAKSHMIPUL"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2768,
+            "stopLat": 22.7996,
+            "stopLon": 88.600029,
+            "stopName": "CHOTO BAMUNIA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2497,
+            "stopLat": 22.794431,
+            "stopLon": 88.831696,
+            "stopName": "RAMCHANDRAPUR (BADURIA)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2498,
+            "stopLat": 22.786868,
+            "stopLon": 88.853078,
+            "stopName": "TENTULIA BRIDGE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 816,
+            "stopLat": 22.806218,
+            "stopLon": 88.511887,
+            "stopName": "AMDANGA (BIRA ROAD)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1996,
+            "stopLat": 22.806583,
+            "stopLon": 88.610494,
+            "stopName": "GUMA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2401,
+            "stopLat": 22.806618,
+            "stopLon": 88.610633,
+            "stopName": "GUMA CHOWMATHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2761,
+            "stopLat": 22.804406,
+            "stopLon": 88.812587,
+            "stopName": "KEOTSHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2470,
+            "stopLat": 22.800843,
+            "stopLon": 88.856178,
+            "stopName": "HATHATGANJ"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2170,
+            "stopLat": 22.816121,
+            "stopLon": 88.857471,
+            "stopName": "SWARUP NAGAR B.D. OFFICE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2824,
+            "stopLat": 22.819181,
+            "stopLon": 88.514479,
+            "stopName": "AMDANGA BDO OFFICE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2480,
+            "stopLat": 22.828992,
+            "stopLon": 88.51987,
+            "stopName": "RAHANA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2718,
+            "stopLat": 22.833113,
+            "stopLon": 88.627591,
+            "stopName": "SHERPUR KALI BARI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2717,
+            "stopLat": 22.833278,
+            "stopLon": 88.620554,
+            "stopName": "ASHOK NAGAR MATRI SADAN HOSPITAL"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2293,
+            "stopLat": 22.825139,
+            "stopLon": 88.626231,
+            "stopName": "ASHOK NAGAR STATION"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2402,
+            "stopLat": 22.825205,
+            "stopLon": 88.626267,
+            "stopName": "ASHOKNAGAR BUILDING MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2762,
+            "stopLat": 22.824685,
+            "stopLon": 88.786033,
+            "stopName": "CHANDIPUR MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2223,
+            "stopLat": 22.842686,
+            "stopLon": 88.582179,
+            "stopName": "KAMAR PUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2473,
+            "stopLat": 22.848251,
+            "stopLon": 88.567242,
+            "stopName": "ISWARIGACHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1565,
+            "stopLat": 22.848217,
+            "stopLon": 88.567283,
+            "stopName": "ISWARIGACHA XING"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1564,
+            "stopLat": 22.842591,
+            "stopLon": 88.582444,
+            "stopName": "RAJBARI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1563,
+            "stopLat": 22.841617,
+            "stopLon": 88.587253,
+            "stopName": "HIZLA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2222,
+            "stopLat": 22.838109,
+            "stopLon": 88.599509,
+            "stopName": "HIJLIYA MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2221,
+            "stopLat": 22.834371,
+            "stopLon": 88.614253,
+            "stopName": "ASHOK NAGAR PS"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1560,
+            "stopLat": 22.848009,
+            "stopLon": 88.62447,
+            "stopName": "ASHOKENAGAR 8 NO. BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2217,
+            "stopLat": 22.842217,
+            "stopLon": 88.621559,
+            "stopName": "SANGHATI PARK"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "JUNCTION",
+            "stopId": 2219,
+            "stopLat": 22.838319,
+            "stopLon": 88.619617,
+            "stopName": "CHOWRANGEE MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2214,
+            "stopLat": 22.848228,
+            "stopLon": 88.625103,
+            "stopName": "KACHUA MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1559,
+            "stopLat": 22.846953,
+            "stopLon": 88.631319,
+            "stopName": "KALYANGARH MORE BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1561,
+            "stopLat": 22.838394,
+            "stopLon": 88.619534,
+            "stopName": "CHOWRINGEE (ASHOKNAGAR)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2211,
+            "stopLat": 22.847051,
+            "stopLon": 88.631327,
+            "stopName": "KALYAN GARH"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1562,
+            "stopLat": 22.833733,
+            "stopLon": 88.617133,
+            "stopName": "8 NO KALIBARI BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1998,
+            "stopLat": 22.834788,
+            "stopLon": 88.638285,
+            "stopName": "ASHOKNAGAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2767,
+            "stopLat": 22.836359,
+            "stopLon": 88.643172,
+            "stopName": "SREE CHAITANNYA COLLEGE (HABRA)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2208,
+            "stopLat": 22.842003,
+            "stopLon": 88.647516,
+            "stopName": "MANASA BARI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2209,
+            "stopLat": 22.844633,
+            "stopLon": 88.640819,
+            "stopName": "NALANDA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2210,
+            "stopLat": 22.84574,
+            "stopLon": 88.634331,
+            "stopName": "HARIPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1999,
+            "stopLat": 22.844408,
+            "stopLon": 88.659937,
+            "stopName": "NAGAR UKHRA MORE (HABRA)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2433,
+            "stopLat": 22.842436,
+            "stopLon": 88.657511,
+            "stopName": "HABRA RAILWAY STN"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2853,
+            "stopLat": 22.847968,
+            "stopLon": 88.663013,
+            "stopName": "JOYGACHHI MORE (HABRA)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2716,
+            "stopLat": 22.849019,
+            "stopLon": 88.663306,
+            "stopName": "HABRA WBTC DEPOT"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2763,
+            "stopLat": 22.835996,
+            "stopLon": 88.774271,
+            "stopName": "CHATRA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2760,
+            "stopLat": 22.838531,
+            "stopLon": 88.866974,
+            "stopName": "SARAPUL DAK BUNGALOW MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2759,
+            "stopLat": 22.842651,
+            "stopLon": 88.888611,
+            "stopName": "NIRMAN"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2468,
+            "stopLat": 22.847684,
+            "stopLon": 88.932822,
+            "stopName": "BITHARI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2467,
+            "stopLat": 22.842855,
+            "stopLon": 88.963,
+            "stopName": "HAKIMPUR BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1566,
+            "stopLat": 22.857372,
+            "stopLon": 88.529445,
+            "stopName": "AWALSIDDHA CHOWMATHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2224,
+            "stopLat": 22.853879,
+            "stopLon": 88.550667,
+            "stopName": "SURIA SCHOOL POST OFFICE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2852,
+            "stopLat": 22.856585,
+            "stopLon": 88.655703,
+            "stopName": "BANBANIA CHOWMATHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2292,
+            "stopLat": 22.859414,
+            "stopLon": 88.67338,
+            "stopName": "CHONGDA MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2765,
+            "stopLat": 22.866373,
+            "stopLon": 88.698475,
+            "stopName": "PAIRAGACHI (HABRA)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2764,
+            "stopLat": 22.855664,
+            "stopLon": 88.743983,
+            "stopName": "MACHHALANDAPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2228,
+            "stopLat": 22.882812,
+            "stopLon": 88.441148,
+            "stopName": "BORA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2227,
+            "stopLat": 22.880877,
+            "stopLon": 88.459345,
+            "stopName": "KULIYA GARH SCHOOL"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1569,
+            "stopLat": 22.881889,
+            "stopLon": 88.451916,
+            "stopName": "DEBAK (MAMUDPUR)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1568,
+            "stopLat": 22.879002,
+            "stopLon": 88.472247,
+            "stopName": "HAMIDPUR BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1567,
+            "stopLat": 22.871572,
+            "stopLon": 88.49463,
+            "stopName": "DHARIAPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2226,
+            "stopLat": 22.869781,
+            "stopLon": 88.500672,
+            "stopName": "DARIAPUR SCHOOL/HAT"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2482,
+            "stopLat": 22.867376,
+            "stopLon": 88.532575,
+            "stopName": "ADHATA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2420,
+            "stopLat": 22.878173,
+            "stopLon": 88.650181,
+            "stopName": "KAJLA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2330,
+            "stopLat": 22.87169,
+            "stopLon": 88.682193,
+            "stopName": "GANADIPAYAN BUS STAND"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2331,
+            "stopLat": 22.879497,
+            "stopLon": 88.687461,
+            "stopName": "KULPUKUR MANDIR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2766,
+            "stopLat": 22.868023,
+            "stopLon": 88.743075,
+            "stopName": "NAKPUL"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1571,
+            "stopLat": 22.887338,
+            "stopLon": 88.428871,
+            "stopName": "NETRALOK EYE HOSPITAL"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1572,
+            "stopLat": 22.889543,
+            "stopLon": 88.422067,
+            "stopName": "W.B.S.E.D.C NAIHATI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1573,
+            "stopLat": 22.893414,
+            "stopLon": 88.424162,
+            "stopName": "BARDA BRIDGE BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1574,
+            "stopLat": 22.895064,
+            "stopLon": 88.419208,
+            "stopName": "RAMKRISHNA CINEMA BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2229,
+            "stopLat": 22.893014,
+            "stopLon": 88.423935,
+            "stopName": "KATGOLA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1575,
+            "stopLat": 22.889185,
+            "stopLon": 88.418372,
+            "stopName": "NAIHATI MUNICIPALITY"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2231,
+            "stopLat": 22.889175,
+            "stopLon": 88.418419,
+            "stopName": "NAIHATI STATION / NAIHATI MUNICIPALITY"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1576,
+            "stopLat": 22.886642,
+            "stopLon": 88.416848,
+            "stopName": "NAIHATI MAHENDRA HIGH SCHOOL"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1570,
+            "stopLat": 22.885292,
+            "stopLon": 88.434325,
+            "stopName": "SAHEB COLONY MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2483,
+            "stopLat": 22.883928,
+            "stopLon": 88.536562,
+            "stopName": "KANCHIARA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2325,
+            "stopLat": 22.885295,
+            "stopLon": 88.612146,
+            "stopName": "SENDANGA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2421,
+            "stopLat": 22.896012,
+            "stopLon": 88.648432,
+            "stopName": "JHIKARA BAZAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2422,
+            "stopLat": 22.886147,
+            "stopLon": 88.646923,
+            "stopName": "DIGHALGRAM"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2284,
+            "stopLat": 22.888592,
+            "stopLon": 88.692843,
+            "stopName": "KALASIMA BAZAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2289,
+            "stopLat": 22.897289,
+            "stopLon": 88.699633,
+            "stopName": "DHARAMPUR BAZAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 823,
+            "stopLat": 22.901445,
+            "stopLon": 88.53928,
+            "stopName": "GADAMARA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2327,
+            "stopLat": 22.903126,
+            "stopLon": 88.579306,
+            "stopName": "NURPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2283,
+            "stopLat": 22.908406,
+            "stopLon": 88.710079,
+            "stopName": "GOPALPUR (JALESWAR)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2334,
+            "stopLat": 22.900581,
+            "stopLon": 88.702117,
+            "stopName": "DHARAMPUR HOSPITAL"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2493,
+            "stopLat": 22.933108,
+            "stopLon": 88.457379,
+            "stopName": "KAMPA MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2492,
+            "stopLat": 22.929574,
+            "stopLon": 88.475914,
+            "stopName": "DHANKAL BUS STAND"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2491,
+            "stopLat": 22.931812,
+            "stopLon": 88.496347,
+            "stopName": "ROY GATE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2485,
+            "stopLat": 22.924482,
+            "stopLon": 88.540884,
+            "stopName": "RAJBERIA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2423,
+            "stopLat": 22.928607,
+            "stopLon": 88.64261,
+            "stopName": "HAPANIYA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2793,
+            "stopLat": 22.928901,
+            "stopLon": 88.712308,
+            "stopName": "JALESHWAR SHIV MANDIR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2715,
+            "stopLat": 22.929983,
+            "stopLon": 88.730625,
+            "stopName": "GAIGHATA BAZAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2335,
+            "stopLat": 22.917651,
+            "stopLon": 88.720334,
+            "stopName": "JALESHWAR MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2019,
+            "stopLat": 22.924646,
+            "stopLon": 88.776705,
+            "stopName": "THAKURNAGAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2494,
+            "stopLat": 22.939245,
+            "stopLon": 88.449586,
+            "stopName": "KANCHRAPARA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2490,
+            "stopLat": 22.940176,
+            "stopLon": 88.523648,
+            "stopName": "MOHANPUR BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1497,
+            "stopLat": 22.945895,
+            "stopLon": 88.544421,
+            "stopName": "KALYANI MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2489,
+            "stopLat": 22.94372,
+            "stopLon": 88.533395,
+            "stopName": "BCKV BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2488,
+            "stopLat": 22.945767,
+            "stopLon": 88.544354,
+            "stopName": "JAGULI PETROL PUMP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 826,
+            "stopLat": 22.941447,
+            "stopLon": 88.544202,
+            "stopName": "JAGULI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2850,
+            "stopLat": 22.946153,
+            "stopLon": 88.583955,
+            "stopName": "FATEPUR (JAGULIA RD.)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2851,
+            "stopLat": 22.948652,
+            "stopLon": 88.598493,
+            "stopName": "DATTA PARA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2426,
+            "stopLat": 22.94176,
+            "stopLon": 88.634283,
+            "stopName": "NAGARUKRA BUS STAND"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2336,
+            "stopLat": 22.934317,
+            "stopLon": 88.735733,
+            "stopName": "GAIGHATA PS"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2337,
+            "stopLat": 22.948773,
+            "stopLon": 88.751147,
+            "stopName": "NAHATA MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2338,
+            "stopLat": 22.959116,
+            "stopLon": 88.765075,
+            "stopName": "BAK CHARA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2805,
+            "stopLat": 22.973622,
+            "stopLon": 88.464267,
+            "stopName": "KALYANI SILPANCHAL STATION ROAD SHIV MANDIR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2807,
+            "stopLat": 22.971506,
+            "stopLon": 88.466226,
+            "stopName": "KALYANI BUS TERMINUS"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2806,
+            "stopLat": 22.972533,
+            "stopLon": 88.463757,
+            "stopName": "BATTALA (KALYANI)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2804,
+            "stopLat": 22.976948,
+            "stopLon": 88.470667,
+            "stopName": "KINGFISHER BEER FACTORY (KALYANI)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2803,
+            "stopLat": 22.974312,
+            "stopLon": 88.486038,
+            "stopName": "ANANDANAGAR BAZAR (KALYANI)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2802,
+            "stopLat": 22.972954,
+            "stopLon": 88.496791,
+            "stopName": "CHECK POST (RAGHUNATHPUR, KALYANI)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2798,
+            "stopLat": 22.968206,
+            "stopLon": 88.529135,
+            "stopName": "7 NO (BASANTAPUR KALYANI)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2801,
+            "stopLat": 22.970563,
+            "stopLon": 88.516754,
+            "stopName": "KATA BELIA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2799,
+            "stopLat": 22.969139,
+            "stopLon": 88.523934,
+            "stopName": "BASANTAPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2797,
+            "stopLat": 22.967579,
+            "stopLon": 88.539229,
+            "stopName": "DOLPHIN SCHOOL OF HOTEL MANAGEMENT"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1476,
+            "stopLat": 22.972223,
+            "stopLon": 88.779263,
+            "stopName": "HABRA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2406,
+            "stopLat": 22.971493,
+            "stopLon": 88.781823,
+            "stopName": "CHANDPARA BAZAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1498,
+            "stopLat": 22.993836,
+            "stopLon": 88.545027,
+            "stopName": "BIROHI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2341,
+            "stopLat": 22.990207,
+            "stopLon": 88.703846,
+            "stopName": "NAHATA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2714,
+            "stopLat": 23.001252,
+            "stopLon": 88.798157,
+            "stopName": "DOGACHIA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2430,
+            "stopLat": 23.015122,
+            "stopLon": 88.809466,
+            "stopName": "KALUPUR BAZAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1499,
+            "stopLat": 23.033627,
+            "stopLon": 88.534745,
+            "stopName": "SHIMURALI BUS STOP (CHAKDAHA)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2409,
+            "stopLat": 23.037202,
+            "stopLon": 88.827175,
+            "stopName": "BANGAON STATION"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2466,
+            "stopLat": 23.037759,
+            "stopLon": 88.876883,
+            "stopName": "PETRAPOLE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2419,
+            "stopLat": 23.062444,
+            "stopLon": 88.831038,
+            "stopName": "SUTIYA ROAD BUS STATION"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "JUNCTION",
+            "stopId": 2246,
+            "stopLat": 23.08155,
+            "stopLon": 88.544332,
+            "stopName": "CHAKDAH CHOWMATHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2826,
+            "stopLat": 23.093771,
+            "stopLon": 88.546077,
+            "stopName": "PALAGACHA MASJID"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2425,
+            "stopLat": 23.107631,
+            "stopLon": 88.816385,
+            "stopName": "CHANDA BAZAR (BANGAON)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2825,
+            "stopLat": 23.131137,
+            "stopLon": 88.564459,
+            "stopName": "PAYRADANGA MAIN RD"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2411,
+            "stopLat": 23.140192,
+            "stopLon": 88.818619,
+            "stopName": "GANRAPOTA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2233,
+            "stopLat": 23.170266,
+            "stopLon": 88.557885,
+            "stopName": "MONOROMA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2244,
+            "stopLat": 23.175201,
+            "stopLon": 88.558132,
+            "stopName": "PRAMANIK"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1500,
+            "stopLat": 23.172288,
+            "stopLon": 88.557953,
+            "stopName": "RANAGHAT"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2408,
+            "stopLat": 23.170097,
+            "stopLon": 88.849387,
+            "stopName": "ASHARU"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1501,
+            "stopLat": 23.194719,
+            "stopLon": 88.541057,
+            "stopName": "HABIBPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2429,
+            "stopLat": 23.186973,
+            "stopLon": 88.856997,
+            "stopName": "HALENCHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2428,
+            "stopLat": 23.21215,
+            "stopLon": 88.888385,
+            "stopName": "BAGDA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1502,
+            "stopLat": 23.21883,
+            "stopLon": 88.506675,
+            "stopName": "PHULIA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1503,
+            "stopLat": 23.270166,
+            "stopLon": 88.43699,
+            "stopName": "SHANTIPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1504,
+            "stopLat": 23.318994,
+            "stopLon": 88.453895,
+            "stopName": "DIGNAGAR"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "JUNCTION",
+            "stopId": 2412,
+            "stopLat": 23.397309,
+            "stopLon": 88.47673,
+            "stopName": "PANTHATIRTHA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1977,
+            "stopLat": 23.385239,
+            "stopLon": 88.489448,
+            "stopName": "PALPARA MORE (KRISHNANAGAR)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1505,
+            "stopLat": 23.406933,
+            "stopLon": 88.482554,
+            "stopName": "COLLECTORI MORE BUS STOP"
+        },
+        {
+            "isJunction": "Y",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2605,
+            "stopLat": 23.409987,
+            "stopLon": 88.498785,
+            "stopName": "KRISHNANAGAR BUS STAND"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1506,
+            "stopLat": 23.402357,
+            "stopLon": 88.500096,
+            "stopName": "KRISHNANAGAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2417,
+            "stopLat": 23.434795,
+            "stopLon": 88.467555,
+            "stopName": "BAHADURPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2237,
+            "stopLat": 23.493738,
+            "stopLon": 88.45052,
+            "stopName": "DHUBULIA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1507,
+            "stopLat": 23.51697,
+            "stopLon": 88.55363,
+            "stopName": "CHAPRA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1508,
+            "stopLat": 23.616385,
+            "stopLon": 88.532165,
+            "stopName": "BARA ANDULIA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1509,
+            "stopLat": 23.639982,
+            "stopLon": 88.530146,
+            "stopName": "SONPUKAR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1510,
+            "stopLat": 23.72782,
+            "stopLon": 88.5339,
+            "stopName": "TEHATTA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2693,
+            "stopLat": 23.734914,
+            "stopLon": 88.540607,
+            "stopName": "TEHATTA HOWLIA MORE"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1976,
+            "stopLat": 23.794879,
+            "stopLon": 88.451106,
+            "stopName": "PALASHIPARA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2695,
+            "stopLat": 23.793633,
+            "stopLon": 88.491688,
+            "stopName": "SHYAMNAGAR (PALASHIPARA)"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1511,
+            "stopLat": 23.805644,
+            "stopLon": 88.564016,
+            "stopName": "BETAI"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1512,
+            "stopLat": 23.867111,
+            "stopLon": 88.537047,
+            "stopName": "NAZIRPUR"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1513,
+            "stopLat": 23.886729,
+            "stopLon": 88.601739,
+            "stopName": "KANTHALIA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 1514,
+            "stopLat": 23.98194,
+            "stopLon": 88.627888,
+            "stopName": "KARIMPUR WBTC BUS STAND"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2707,
+            "stopLat": 23.98073,
+            "stopLon": 88.687824,
+            "stopName": "ARABPUR BUS STOP"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2320,
+            "stopLat": 23.985422,
+            "stopLon": 88.719527,
+            "stopName": "FUNKATALA"
+        },
+        {
+            "isJunction": "N",
+            "isValid": "Y",
+            "locationType": "STOP",
+            "stopId": 2319,
+            "stopLat": 23.986884,
+            "stopLon": 88.739545,
+            "stopName": "SHIKARPUR BUS STOP"
+        }
+    ],
+    "duration": 11,
+    "message": "",
+    "requestId": null,
+    "status": "SUCCESS"
+}

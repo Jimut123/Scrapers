@@ -1,0 +1,5865 @@
+{
+    "count": 175,
+    "data": [
+        {
+            "angle": 32,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.620844,
+                "longitude": 87.48526
+            },
+            "lastTime": 1547367076000,
+            "outOfPath": true,
+            "routeCode": "E45:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 74660,
+                "vehicleRegNo": "WB04H3825",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3825",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 261,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "NW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.621193,
+                "longitude": 87.485268
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": false,
+            "routeCode": "E55:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 74742,
+                "vehicleRegNo": "WB04H3804",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3804",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 210,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.625467,
+                "longitude": 87.52552
+            },
+            "lastTime": 1547367034000,
+            "outOfPath": true,
+            "routeCode": "1B:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 182357,
+                "vehicleRegNo": "WB04G8974",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04G8974",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 349,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.643015,
+                "longitude": 88.074692
+            },
+            "lastTime": 1547366873000,
+            "outOfPath": true,
+            "routeCode": "12C/1B:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77686,
+                "vehicleRegNo": "WB19G8957",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G8957",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 311,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "NW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.642527,
+                "longitude": 88.074989
+            },
+            "lastTime": 1547367054000,
+            "outOfPath": null,
+            "routeCode": "KB17:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183855,
+                "vehicleRegNo": "WB19G7801",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G7801",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.642506,
+                "longitude": 88.074738
+            },
+            "lastTime": 1547366738000,
+            "outOfPath": null,
+            "routeCode": "KB17:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183837,
+                "vehicleRegNo": "WB19G7799",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G7799",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 199,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "SW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.675407,
+                "longitude": 87.560669
+            },
+            "lastTime": 1547367075000,
+            "outOfPath": false,
+            "routeCode": "E45:UP",
+            "speed": 27.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 74663,
+                "vehicleRegNo": "WB04H3835",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3835",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 155,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.697502,
+                "longitude": 88.114082
+            },
+            "lastTime": 1547367078000,
+            "outOfPath": true,
+            "routeCode": "12C/1:UP",
+            "speed": 44.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19232395,
+                "vehicleRegNo": "WB04G0858",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04G0858",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 163,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.702217,
+                "longitude": 88.111542
+            },
+            "lastTime": 1547367044000,
+            "outOfPath": null,
+            "routeCode": "DN9/1:UP",
+            "speed": 46.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19166437,
+                "vehicleRegNo": "WB25F8966",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25F8966",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 163,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.710623,
+                "longitude": 88.108971
+            },
+            "lastTime": 1547367076000,
+            "outOfPath": true,
+            "routeCode": "12C:UP",
+            "speed": 40.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77679,
+                "vehicleRegNo": "WB04F7149",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04F7149",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 45,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.720135,
+                "longitude": 87.663818
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": true,
+            "routeCode": "E41:DN",
+            "speed": 16.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 76195,
+                "vehicleRegNo": "WB04H3876",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3876",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 14,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.791113,
+                "longitude": 87.748695
+            },
+            "lastTime": 1547366931000,
+            "outOfPath": true,
+            "routeCode": "C26:UP",
+            "speed": 36.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 74990,
+                "vehicleRegNo": "WB04H3884",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3884",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 350,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.786776,
+                "longitude": 88.231323
+            },
+            "lastTime": 1547367077000,
+            "outOfPath": true,
+            "routeCode": "GSM2:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "28 Aug 2018 02:42:10 GMT",
+                    "DriverId": "D03849"
+                },
+                "vehicleId": 75348,
+                "vehicleRegNo": "WB055677",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055677",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 187,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 21.826508,
+                "longitude": 87.749702
+            },
+            "lastTime": 1547367070000,
+            "outOfPath": false,
+            "routeCode": "E17/1:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 74638,
+                "vehicleRegNo": "WB04H3816",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3816",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 79,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "E",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.859301,
+                "longitude": 88.14032
+            },
+            "lastTime": 1547367072000,
+            "outOfPath": null,
+            "routeCode": "39A/2:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183360,
+                "vehicleRegNo": "WB04G8610",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04G8610",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.860163,
+                "longitude": 88.142418
+            },
+            "lastTime": 1547367038000,
+            "outOfPath": null,
+            "routeCode": "122:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 184027,
+                "vehicleRegNo": "WB25E0371",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25E0371",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.864882,
+                "longitude": 88.142395
+            },
+            "lastTime": 1547367078000,
+            "outOfPath": true,
+            "routeCode": "MV01:DN",
+            "speed": 2.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "WBSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19235724,
+                "vehicleRegNo": "MV23",
+                "vehicleRegNoAlias": "Simoco-VTU",
+                "vehicleType": "FERRY"
+            },
+            "vehicleNo": "MV23",
+            "vehicleType": "FERRY",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 240,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "SW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.858168,
+                "longitude": 88.14167
+            },
+            "lastTime": 1547367023000,
+            "outOfPath": null,
+            "routeCode": "122:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 184024,
+                "vehicleRegNo": "WB25E0372",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25E0372",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 75,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.85935,
+                "longitude": 88.1399
+            },
+            "lastTime": 1547367059000,
+            "outOfPath": true,
+            "routeCode": "21/1:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77207,
+                "vehicleRegNo": "WB19J1545",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19J1545",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 108,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.859226,
+                "longitude": 88.140564
+            },
+            "lastTime": 1547367075000,
+            "outOfPath": true,
+            "routeCode": "21:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 77478,
+                "vehicleRegNo": "WB19H7364",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19H7364",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 317,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.866282,
+                "longitude": 88.512199
+            },
+            "lastTime": 1547367027000,
+            "outOfPath": true,
+            "routeCode": "218:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78317,
+                "vehicleRegNo": "WB19F9926",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F9926",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.866884,
+                "longitude": 88.140396
+            },
+            "lastTime": 1547367074000,
+            "outOfPath": true,
+            "routeCode": "MV01:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "WBSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19235722,
+                "vehicleRegNo": "MV21",
+                "vehicleRegNoAlias": "Simoco-VTU",
+                "vehicleType": "FERRY"
+            },
+            "vehicleNo": "MV21",
+            "vehicleType": "FERRY",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.873257,
+                "longitude": 88.156464
+            },
+            "lastTime": 1547367078000,
+            "outOfPath": true,
+            "routeCode": "MV01:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "WBSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19235723,
+                "vehicleRegNo": "MV20",
+                "vehicleRegNoAlias": "Simoco-VTU",
+                "vehicleType": "FERRY"
+            },
+            "vehicleNo": "MV20",
+            "vehicleType": "FERRY",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 41,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 21.877537,
+                "longitude": 88.160255
+            },
+            "lastTime": 1547367080000,
+            "outOfPath": false,
+            "routeCode": "MV01:UP",
+            "speed": -5.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "WBSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19235707,
+                "vehicleRegNo": "MV03",
+                "vehicleRegNoAlias": "Simoco-VTU",
+                "vehicleType": "FERRY"
+            },
+            "vehicleNo": "MV03",
+            "vehicleType": "FERRY",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.8825,
+                "longitude": 88.163414
+            },
+            "lastTime": 1547367076000,
+            "outOfPath": true,
+            "routeCode": "MV01:UP",
+            "speed": -6.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "WBSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19235709,
+                "vehicleRegNo": "MV38",
+                "vehicleRegNoAlias": "Simoco-VTU",
+                "vehicleType": "FERRY"
+            },
+            "vehicleNo": "MV38",
+            "vehicleType": "FERRY",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.882769,
+                "longitude": 88.163338
+            },
+            "lastTime": 1547367074000,
+            "outOfPath": true,
+            "routeCode": "MV01:UP",
+            "speed": 3.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "WBSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19235721,
+                "vehicleRegNo": "MV06",
+                "vehicleRegNoAlias": "Simoco-VTU",
+                "vehicleType": "FERRY"
+            },
+            "vehicleNo": "MV06",
+            "vehicleType": "FERRY",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 54,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.877851,
+                "longitude": 88.158997
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": true,
+            "routeCode": "MV01:UP",
+            "speed": -3.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "WBSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19235720,
+                "vehicleRegNo": "MV33",
+                "vehicleRegNoAlias": "Simoco-VTU",
+                "vehicleType": "FERRY"
+            },
+            "vehicleNo": "MV33",
+            "vehicleType": "FERRY",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.890821,
+                "longitude": 88.165031
+            },
+            "lastTime": 1547367075000,
+            "outOfPath": true,
+            "routeCode": "MV01:UP",
+            "speed": -5.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "WBSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19235717,
+                "vehicleRegNo": "MV31",
+                "vehicleRegNoAlias": "Simoco-VTU",
+                "vehicleType": "FERRY"
+            },
+            "vehicleNo": "MV31",
+            "vehicleType": "FERRY",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.888416,
+                "longitude": 88.163857
+            },
+            "lastTime": 1547367080000,
+            "outOfPath": true,
+            "routeCode": "MV01:UP",
+            "speed": -4.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "WBSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19235711,
+                "vehicleRegNo": "MV04",
+                "vehicleRegNoAlias": "Simoco-VTU",
+                "vehicleType": "FERRY"
+            },
+            "vehicleNo": "MV04",
+            "vehicleType": "FERRY",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.89081,
+                "longitude": 88.164993
+            },
+            "lastTime": 1547367082000,
+            "outOfPath": true,
+            "routeCode": "MV01:UP",
+            "speed": -3.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "WBSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19235712,
+                "vehicleRegNo": "MV17",
+                "vehicleRegNoAlias": "Simoco-VTU",
+                "vehicleType": "FERRY"
+            },
+            "vehicleNo": "MV17",
+            "vehicleType": "FERRY",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 143,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.889278,
+                "longitude": 88.169716
+            },
+            "lastTime": 1547367067000,
+            "outOfPath": true,
+            "routeCode": "GSM2:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 76058,
+                "vehicleRegNo": "WB04H4847",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H4847",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 218,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": "NE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 21.894318,
+                "longitude": 88.171288
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": false,
+            "routeCode": "GSM1:DN",
+            "speed": 1.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "depotName": "HOWRAH",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "24 Aug 2018 06:43:38 GMT",
+                    "DriverId": "D03801"
+                },
+                "vehicleId": 785,
+                "vehicleRegNo": "WB11C9670",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB11C9670",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 149,
+            "crowd": "N",
+            "dataSource": "IDEATION",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.88901823122774,
+                "longitude": 88.17027093221508
+            },
+            "lastTime": 1547367074973,
+            "outOfPath": true,
+            "routeCode": "GSM2:DN",
+            "speed": 0.85,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "WBSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 59846,
+                "vehicleRegNo": "WB11C5488",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB11C5488",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 96,
+            "crowd": "N",
+            "dataSource": "IDEATION",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.88914091190638,
+                "longitude": 88.17022145202944
+            },
+            "lastTime": 1547367060932,
+            "outOfPath": true,
+            "routeCode": "GSM2:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleId": 60373,
+                "vehicleRegNo": "WB11C5320",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB11C5320",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 238,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 21.897694,
+                "longitude": 88.176086
+            },
+            "lastTime": 1547366914000,
+            "outOfPath": false,
+            "routeCode": "GSM2:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "25 Aug 2018 01:41:47 GMT",
+                    "DriverId": "D04731"
+                },
+                "vehicleId": 75855,
+                "vehicleRegNo": "WB055725",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055725",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 238,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.888905,
+                "longitude": 88.170158
+            },
+            "lastTime": 1547366995000,
+            "outOfPath": true,
+            "routeCode": "GSM1:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "6 Aug 2018 01:24:41 GMT",
+                    "DriverId": "TD7920"
+                },
+                "vehicleId": 75367,
+                "vehicleRegNo": "WB055636",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055636",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 208,
+            "crowd": "L",
+            "dataSource": "IDEATION",
+            "direction": "NW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 21.890836941512955,
+                "longitude": 88.1686619788164
+            },
+            "lastTime": 1547367067931,
+            "outOfPath": false,
+            "routeCode": "GSM2:DN",
+            "speed": 2.66,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "WBSTC",
+                "isValid": "Y",
+                "vehicleId": 74127,
+                "vehicleRegNo": "WB11C5506",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB11C5506",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 231,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.89439,
+                "longitude": 88.171448
+            },
+            "lastTime": 1547367078000,
+            "outOfPath": true,
+            "routeCode": "C28:DN",
+            "speed": 39.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 74806,
+                "vehicleRegNo": "WB04H3900",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3900",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 217,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "SW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 21.89295,
+                "longitude": 88.170303
+            },
+            "lastTime": 1547367006000,
+            "outOfPath": false,
+            "routeCode": "GSM1:DN",
+            "speed": 6.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleId": 75377,
+                "vehicleRegNo": "WB055638",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055638",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 180,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.889008,
+                "longitude": 88.170265
+            },
+            "lastTime": 1547367021000,
+            "outOfPath": true,
+            "routeCode": "GSM1:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 76046,
+                "vehicleRegNo": "WB04H4840",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H4840",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 140,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.889338,
+                "longitude": 88.169678
+            },
+            "lastTime": 1547367004000,
+            "outOfPath": true,
+            "routeCode": "C26:UP",
+            "speed": 10.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 19194049,
+                "vehicleRegNo": "WB04H6206",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H6206",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 145,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.889332,
+                "longitude": 88.16964
+            },
+            "lastTime": 1547367018000,
+            "outOfPath": true,
+            "routeCode": "E22:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 74981,
+                "vehicleRegNo": "WB04H3863",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3863",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 169,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 21.905645,
+                "longitude": 88.186592
+            },
+            "lastTime": 1547367076000,
+            "outOfPath": false,
+            "routeCode": "GSM1:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 74791,
+                "vehicleRegNo": "WB04H3849",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3849",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 198,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 21.926664,
+                "longitude": 88.191521
+            },
+            "lastTime": 1547367076000,
+            "outOfPath": false,
+            "routeCode": "GSM1:DN",
+            "speed": 8.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "isValid": "Y",
+                "vehicleId": 19235725,
+                "vehicleRegNo": "WB04C5144",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04C5144",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 177,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 21.946539,
+                "longitude": 88.190933
+            },
+            "lastTime": 1547367075000,
+            "outOfPath": false,
+            "routeCode": "GSM1:DN",
+            "speed": 52.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "20 Aug 2018 07:44:17 GMT",
+                    "DriverId": "TD0373"
+                },
+                "vehicleId": 75440,
+                "vehicleRegNo": "WB055704",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055704",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 28,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 21.951649,
+                "longitude": 88.191704
+            },
+            "lastTime": 1547367078000,
+            "outOfPath": true,
+            "routeCode": "E35:DN",
+            "speed": 59.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 13900863,
+                "vehicleRegNo": "WB04H4811",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H4811",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 32,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "NE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 21.970312,
+                "longitude": 88.204147
+            },
+            "lastTime": 1547367039000,
+            "outOfPath": false,
+            "routeCode": "GSM2:UP",
+            "speed": 75.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "27 Aug 2018 02:50:23 GMT",
+                    "DriverId": "D04839"
+                },
+                "vehicleId": 75337,
+                "vehicleRegNo": "WB055688",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055688",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 33,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.007902,
+                "longitude": 88.228912
+            },
+            "lastTime": 1547367072000,
+            "outOfPath": true,
+            "routeCode": "C26:UP",
+            "speed": 8.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 76191,
+                "vehicleRegNo": "WB04H3872",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3872",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 283,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.029188,
+                "longitude": 88.212608
+            },
+            "lastTime": 1547367051000,
+            "outOfPath": true,
+            "routeCode": "21:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77217,
+                "vehicleRegNo": "WB19G7490",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G7490",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 70,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.022371,
+                "longitude": 88.616631
+            },
+            "lastTime": 1547367048000,
+            "outOfPath": true,
+            "routeCode": "218:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78312,
+                "vehicleRegNo": "WB19E3591",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19E3591",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 270,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.023508,
+                "longitude": 88.617104
+            },
+            "lastTime": 1547367068000,
+            "outOfPath": true,
+            "routeCode": "218:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78353,
+                "vehicleRegNo": "WB19F8384",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F8384",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 267,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "W",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.025972,
+                "longitude": 88.688721
+            },
+            "lastTime": 1547367025000,
+            "outOfPath": null,
+            "routeCode": "JM2:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77404,
+                "vehicleRegNo": "WB04E1315",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04E1315",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 15,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.025923,
+                "longitude": 88.688721
+            },
+            "lastTime": 1547367023000,
+            "outOfPath": true,
+            "routeCode": "218:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78311,
+                "vehicleRegNo": "WB19F4330",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F4330",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 283,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.025812,
+                "longitude": 88.689301
+            },
+            "lastTime": 1547367041000,
+            "outOfPath": true,
+            "routeCode": "213:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 182811,
+                "vehicleRegNo": "WB19G6691",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G6691",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 151,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "SE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.025181,
+                "longitude": 88.689522
+            },
+            "lastTime": 1547367045000,
+            "outOfPath": null,
+            "routeCode": "S166:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78236,
+                "vehicleRegNo": "WB19G7682",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G7682",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 3,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.066469,
+                "longitude": 88.246124
+            },
+            "lastTime": 1547367075000,
+            "outOfPath": null,
+            "routeCode": "GSM01:UP",
+            "speed": 7.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "depotName": "TARATALA",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "28 Aug 2018 10:02:09 GMT",
+                    "DriverId": "TD7706"
+                },
+                "vehicleId": 60509,
+                "vehicleRegNo": "WB11C9672",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB11C9672",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 180,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.104029,
+                "longitude": 88.244576
+            },
+            "lastTime": 1547367070000,
+            "outOfPath": true,
+            "routeCode": "D16:DN",
+            "speed": 49.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 76170,
+                "vehicleRegNo": "WB04H3806",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3806",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 152,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.100067,
+                "longitude": 88.244164
+            },
+            "lastTime": 1547367075000,
+            "outOfPath": true,
+            "routeCode": "C29:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 76171,
+                "vehicleRegNo": "WB04H3824",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3824",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 26,
+            "crowd": "M",
+            "dataSource": "IDEATION",
+            "direction": "NE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.125045705390466,
+                "longitude": 87.88196051005238
+            },
+            "lastTime": 1547367071039,
+            "outOfPath": false,
+            "routeCode": "ACT5:DN",
+            "speed": 26.6,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 60286,
+                "vehicleRegNo": "WB11D1584",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB11D1584",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 195,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.119841,
+                "longitude": 88.248611
+            },
+            "lastTime": 1547367079000,
+            "outOfPath": false,
+            "routeCode": "GSM1:DN",
+            "speed": 48.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "27 Aug 2018 10:04:11 GMT",
+                    "DriverId": "D04874"
+                },
+                "vehicleId": 75405,
+                "vehicleRegNo": "WB055703",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055703",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 193,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.122421,
+                "longitude": 88.249344
+            },
+            "lastTime": 1547367072000,
+            "outOfPath": false,
+            "routeCode": "GSM1:DN",
+            "speed": 7.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "depotName": "LAKE",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "18 Aug 2018 06:03:20 GMT",
+                    "DriverId": "D04498"
+                },
+                "vehicleId": 793,
+                "vehicleRegNo": "WB11C9678",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB11C9678",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 193,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.125841,
+                "longitude": 88.250175
+            },
+            "lastTime": 1547367074000,
+            "outOfPath": false,
+            "routeCode": "GSM2:DN",
+            "speed": 47.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "28 Aug 2018 09:55:35 GMT",
+                    "DriverId": "D03715"
+                },
+                "vehicleId": 75386,
+                "vehicleRegNo": "WB055671",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055671",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 180,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.137209,
+                "longitude": 88.5979
+            },
+            "lastTime": 1547367035000,
+            "outOfPath": null,
+            "routeCode": "JM2:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77446,
+                "vehicleRegNo": "WB04E3861",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04E3861",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 51,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.138512,
+                "longitude": 88.598312
+            },
+            "lastTime": 1547367016000,
+            "outOfPath": true,
+            "routeCode": "218:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78349,
+                "vehicleRegNo": "WB19G2457",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G2457",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 187,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.160864,
+                "longitude": 88.253273
+            },
+            "lastTime": 1547367074000,
+            "outOfPath": true,
+            "routeCode": "C29:DN",
+            "speed": 66.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 76176,
+                "vehicleRegNo": "WB04H3885",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3885",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 136,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "SE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.156082,
+                "longitude": 88.371758
+            },
+            "lastTime": 1547367070000,
+            "outOfPath": null,
+            "routeCode": "S166:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78198,
+                "vehicleRegNo": "WB19D6619",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19D6619",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 285,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.176996,
+                "longitude": 88.198112
+            },
+            "lastTime": 1547367079000,
+            "outOfPath": true,
+            "routeCode": "C37:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 74677,
+                "vehicleRegNo": "WB04H3803",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3803",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 180,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.176208,
+                "longitude": 88.196342
+            },
+            "lastTime": 1547367021000,
+            "outOfPath": true,
+            "routeCode": "S121:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78318,
+                "vehicleRegNo": "WB04D3081",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04D3081",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 180,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.176292,
+                "longitude": 88.196495
+            },
+            "lastTime": 1547367022000,
+            "outOfPath": null,
+            "routeCode": "108:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 182261,
+                "vehicleRegNo": "WB04G1577",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04G1577",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 277,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.17667,
+                "longitude": 88.196579
+            },
+            "lastTime": 1547367058000,
+            "outOfPath": true,
+            "routeCode": "12C/1:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 182456,
+                "vehicleRegNo": "WB19F1944",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F1944",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 296,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.178499,
+                "longitude": 88.19458
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": true,
+            "routeCode": "C29:DN",
+            "speed": 14.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19196870,
+                "vehicleRegNo": "WB04H6222",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H6222",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 164,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.176682,
+                "longitude": 88.196465
+            },
+            "lastTime": 1547367072000,
+            "outOfPath": true,
+            "routeCode": "13:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77852,
+                "vehicleRegNo": "WB19G4298",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G4298",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 86,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.176725,
+                "longitude": 88.196518
+            },
+            "lastTime": 1547367079000,
+            "outOfPath": true,
+            "routeCode": "13:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19166310,
+                "vehicleRegNo": "WB19J3722",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19J3722",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.17663,
+                "longitude": 88.196625
+            },
+            "lastTime": 1547367058000,
+            "outOfPath": true,
+            "routeCode": "218:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78399,
+                "vehicleRegNo": "WB19G7719",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G7719",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 113,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "SE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.175303,
+                "longitude": 88.201927
+            },
+            "lastTime": 1547367069000,
+            "outOfPath": false,
+            "routeCode": "GSM1:DN",
+            "speed": 10.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "28 Aug 2018 07:46:29 GMT",
+                    "DriverId": "TD0308"
+                },
+                "vehicleId": 75352,
+                "vehicleRegNo": "WB055721",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055721",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 103,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.172964,
+                "longitude": 88.22496
+            },
+            "lastTime": 1547367050000,
+            "outOfPath": true,
+            "routeCode": "E40:UP",
+            "speed": 56.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 76183,
+                "vehicleRegNo": "WB04H3857",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3857",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 282,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "W",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.173676,
+                "longitude": 88.221519
+            },
+            "lastTime": 1547366873000,
+            "outOfPath": false,
+            "routeCode": "GSM1:UP",
+            "speed": 57.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "16 Aug 2018 08:35:55 GMT",
+                    "DriverId": "D04227"
+                },
+                "vehicleId": 75369,
+                "vehicleRegNo": "WB055659",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055659",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 282,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "W",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.173185,
+                "longitude": 88.223801
+            },
+            "lastTime": 1547367067000,
+            "outOfPath": false,
+            "routeCode": "GSM1:UP",
+            "speed": 58.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "27 Aug 2018 03:36:50 GMT",
+                    "DriverId": "TD7911"
+                },
+                "vehicleId": 75381,
+                "vehicleRegNo": "WB055715",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055715",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 283,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "W",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.170927,
+                "longitude": 88.233597
+            },
+            "lastTime": 1547367071000,
+            "outOfPath": false,
+            "routeCode": "GSM2:UP",
+            "speed": 18.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 75034,
+                "vehicleRegNo": "WB04H3895",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3895",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 132,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.168461,
+                "longitude": 88.786934
+            },
+            "lastTime": 1547367044000,
+            "outOfPath": true,
+            "routeCode": "12C:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77677,
+                "vehicleRegNo": "WB19F7361",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F7361",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 156,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "SE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.168867,
+                "longitude": 88.786552
+            },
+            "lastTime": 1547367069000,
+            "outOfPath": null,
+            "routeCode": "KB22:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19232669,
+                "vehicleRegNo": "WB07J2354",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB07J2354",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 286,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.168436,
+                "longitude": 88.786888
+            },
+            "lastTime": 1547367054000,
+            "outOfPath": true,
+            "routeCode": "12C:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77730,
+                "vehicleRegNo": "WB19G5591",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G5591",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 337,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.168491,
+                "longitude": 88.786972
+            },
+            "lastTime": 1547367043000,
+            "outOfPath": true,
+            "routeCode": "12C/1B:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77718,
+                "vehicleRegNo": "WB19F3191",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F3191",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 358,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.189825,
+                "longitude": 88.18927
+            },
+            "lastTime": 1547367078000,
+            "outOfPath": false,
+            "routeCode": "GSM2:UP",
+            "speed": 8.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19194480,
+                "vehicleRegNo": "WB04H6229",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H6229",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 358,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.18992,
+                "longitude": 88.189301
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": false,
+            "routeCode": "GSM2:UP",
+            "speed": 10.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "28 Aug 2018 08:53:48 GMT",
+                    "DriverId": "D04726"
+                },
+                "vehicleId": 75858,
+                "vehicleRegNo": "WB055755",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055755",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.211384,
+                "longitude": 88.072685
+            },
+            "lastTime": 1547367066000,
+            "outOfPath": null,
+            "routeCode": "KB17:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183843,
+                "vehicleRegNo": "WB19G8099",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G8099",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 245,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "SW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.211178,
+                "longitude": 88.07267
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": null,
+            "routeCode": "186:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19166487,
+                "vehicleRegNo": "WB053149",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB053149",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 273,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.210634,
+                "longitude": 88.109169
+            },
+            "lastTime": 1547367068000,
+            "outOfPath": true,
+            "routeCode": "201:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19167251,
+                "vehicleRegNo": "WB25D3824",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25D3824",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 76,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "E",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.210155,
+                "longitude": 88.112343
+            },
+            "lastTime": 1547367032000,
+            "outOfPath": null,
+            "routeCode": "202:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 181747,
+                "vehicleRegNo": "WB23E0171",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB23E0171",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 192,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.210333,
+                "longitude": 88.111252
+            },
+            "lastTime": 1547367079000,
+            "outOfPath": true,
+            "routeCode": "13:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77794,
+                "vehicleRegNo": "WB19H2859",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19H2859",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 108,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.20212,
+                "longitude": 88.151566
+            },
+            "lastTime": 1547367028000,
+            "outOfPath": true,
+            "routeCode": "17:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77347,
+                "vehicleRegNo": "WB11B5815",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB11B5815",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 317,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "NW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.205067,
+                "longitude": 88.184692
+            },
+            "lastTime": 1547367077000,
+            "outOfPath": false,
+            "routeCode": "GSM2:UP",
+            "speed": 33.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "28 Aug 2018 11:02:52 GMT",
+                    "DriverId": "D04475"
+                },
+                "vehicleId": 75374,
+                "vehicleRegNo": "WB055631",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055631",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 299,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": "NW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.203224,
+                "longitude": 88.187851
+            },
+            "lastTime": 1547367074000,
+            "outOfPath": false,
+            "routeCode": "GSM1:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "depotName": "TARATALA",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "28 Aug 2018 09:59:30 GMT",
+                    "DriverId": "D04940"
+                },
+                "vehicleId": 60215,
+                "vehicleRegNo": "WB11C5143",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB11C5143",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 179,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.214989,
+                "longitude": 88.183861
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": null,
+            "routeCode": "GSM01:UP",
+            "speed": 4.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "depotName": "THAKURPUKUR",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "6 Aug 2018 03:36:00 GMT",
+                    "DriverId": "TD1175"
+                },
+                "vehicleId": 60454,
+                "vehicleRegNo": "WB04D2514",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04D2514",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 179,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.211983,
+                "longitude": 88.183884
+            },
+            "lastTime": 1547367074000,
+            "outOfPath": false,
+            "routeCode": "GSM1:DN",
+            "speed": 37.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 74757,
+                "vehicleRegNo": "WB04H3811",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3811",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 179,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.210295,
+                "longitude": 88.183914
+            },
+            "lastTime": 1547366842000,
+            "outOfPath": false,
+            "routeCode": "GSM2:DN",
+            "speed": 17.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 75002,
+                "vehicleRegNo": "WB04H3883",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3883",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 178,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.215315,
+                "longitude": 88.183846
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": null,
+            "routeCode": "185:UP",
+            "speed": 33.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19166465,
+                "vehicleRegNo": "WB23B8589",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB23B8589",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 228,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "SW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.223747,
+                "longitude": 88.039742
+            },
+            "lastTime": 1547367075000,
+            "outOfPath": null,
+            "routeCode": "JM2:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77453,
+                "vehicleRegNo": "WB04E3856",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04E3856",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 167,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.224911,
+                "longitude": 88.039612
+            },
+            "lastTime": 1547367020000,
+            "outOfPath": true,
+            "routeCode": "DN17:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 78097,
+                "vehicleRegNo": "WB04D8019",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04D8019",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 224,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "SW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.222872,
+                "longitude": 88.039703
+            },
+            "lastTime": 1547367029000,
+            "outOfPath": null,
+            "routeCode": "KB17:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183847,
+                "vehicleRegNo": "WB19G7804",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G7804",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 176,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.221306,
+                "longitude": 88.183716
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": true,
+            "routeCode": "12C/1B:DN",
+            "speed": 41.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19232401,
+                "vehicleRegNo": "WB19F3688",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F3688",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 358,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.219982,
+                "longitude": 88.183769
+            },
+            "lastTime": 1547367071000,
+            "outOfPath": false,
+            "routeCode": "GSM1:UP",
+            "speed": 52.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "28 Aug 2018 08:13:02 GMT",
+                    "DriverId": "TD7053"
+                },
+                "vehicleId": 75859,
+                "vehicleRegNo": "WB055730",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055730",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 356,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.222075,
+                "longitude": 88.183647
+            },
+            "lastTime": 1547367079000,
+            "outOfPath": false,
+            "routeCode": "GSM1:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "28 Aug 2018 00:49:46 GMT",
+                    "DriverId": "TD0134"
+                },
+                "vehicleId": 75340,
+                "vehicleRegNo": "WB055655",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055655",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 180,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.226385,
+                "longitude": 88.44799
+            },
+            "lastTime": 1547367076000,
+            "outOfPath": true,
+            "routeCode": "S128:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 184079,
+                "vehicleRegNo": "WB19D8464",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19D8464",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 101,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.245567,
+                "longitude": 88.089165
+            },
+            "lastTime": 1547367021000,
+            "outOfPath": true,
+            "routeCode": "12C/1A:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77719,
+                "vehicleRegNo": "WB19F3195",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F3195",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.245089,
+                "longitude": 88.088982
+            },
+            "lastTime": 1547367024000,
+            "outOfPath": null,
+            "routeCode": "S166:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78307,
+                "vehicleRegNo": "WB04C9473",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04C9473",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 197,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.248531,
+                "longitude": 88.185432
+            },
+            "lastTime": 1547367072000,
+            "outOfPath": true,
+            "routeCode": "D21:UP",
+            "speed": 35.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19165895,
+                "vehicleRegNo": "WB043867",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB043867",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 275,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.264053,
+                "longitude": 88.073425
+            },
+            "lastTime": 1547367066000,
+            "outOfPath": true,
+            "routeCode": "S165:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 184213,
+                "vehicleRegNo": "WB19D9292",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19D9292",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 221,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.256372,
+                "longitude": 88.090912
+            },
+            "lastTime": 1547367065000,
+            "outOfPath": true,
+            "routeCode": "21/1:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77257,
+                "vehicleRegNo": "WB04G6029",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04G6029",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 180,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.257011,
+                "longitude": 88.089752
+            },
+            "lastTime": 1547367068000,
+            "outOfPath": true,
+            "routeCode": "218:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78343,
+                "vehicleRegNo": "WB19H2421",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19H2421",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 26,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.254698,
+                "longitude": 88.090401
+            },
+            "lastTime": 1547367076000,
+            "outOfPath": true,
+            "routeCode": "218:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78319,
+                "vehicleRegNo": "WB19F3981",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F3981",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 52,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.254213,
+                "longitude": 88.648361
+            },
+            "lastTime": 1547367078000,
+            "outOfPath": true,
+            "routeCode": "218:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19232426,
+                "vehicleRegNo": "WB19F5660",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F5660",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 73,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.254282,
+                "longitude": 88.648659
+            },
+            "lastTime": 1547367059000,
+            "outOfPath": true,
+            "routeCode": "91A:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78553,
+                "vehicleRegNo": "WB19H7045",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19H7045",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 277,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.255083,
+                "longitude": 88.651016
+            },
+            "lastTime": 1547367021000,
+            "outOfPath": true,
+            "routeCode": "34C:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78378,
+                "vehicleRegNo": "WB23C7463",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB23C7463",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 60,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": "NE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.266912,
+                "longitude": 88.21022
+            },
+            "lastTime": 1547367078000,
+            "outOfPath": false,
+            "routeCode": "GSM1:UP",
+            "speed": 2.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "depotName": "HOWRAH",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "27 Aug 2018 09:39:06 GMT",
+                    "DriverId": "TD0415"
+                },
+                "vehicleId": 800,
+                "vehicleRegNo": "WB11C9679",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB11C9679",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 63,
+            "crowd": "N",
+            "dataSource": "IDEATION",
+            "direction": "SW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.27122211399586,
+                "longitude": 88.21841745834001
+            },
+            "lastTime": 1547367069445,
+            "outOfPath": false,
+            "routeCode": "GSM1:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 74728,
+                "vehicleRegNo": "WB11C7987",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB11C7987",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 120,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "SE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.273863,
+                "longitude": 88.470978
+            },
+            "lastTime": 1547367074000,
+            "outOfPath": null,
+            "routeCode": "KB22:UP",
+            "speed": 49.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19232681,
+                "vehicleRegNo": "WB25F8065",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25F8065",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 97,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.288019,
+                "longitude": 88.104729
+            },
+            "lastTime": 1547367071000,
+            "outOfPath": true,
+            "routeCode": "12C:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19166297,
+                "vehicleRegNo": "WB04F7876",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04F7876",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 73,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.288858,
+                "longitude": 88.106583
+            },
+            "lastTime": 1547367023000,
+            "outOfPath": true,
+            "routeCode": "212:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77895,
+                "vehicleRegNo": "WB04F9777",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04F9777",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.28833,
+                "longitude": 88.107315
+            },
+            "lastTime": 1547367057000,
+            "outOfPath": true,
+            "routeCode": "17:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77363,
+                "vehicleRegNo": "WB04E2474",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04E2474",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 295,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.292168,
+                "longitude": 88.210075
+            },
+            "lastTime": 1547366849000,
+            "outOfPath": true,
+            "routeCode": "217:UP",
+            "speed": 24.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 78468,
+                "vehicleRegNo": "WB07G0486",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB07G0486",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.291264,
+                "longitude": 88.210258
+            },
+            "lastTime": 1547367072000,
+            "outOfPath": true,
+            "routeCode": "259:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77194,
+                "vehicleRegNo": "WB19F9092",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F9092",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 36,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.284824,
+                "longitude": 88.230949
+            },
+            "lastTime": 1547367072000,
+            "outOfPath": true,
+            "routeCode": "C26:DN",
+            "speed": 61.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 19192272,
+                "vehicleRegNo": "WB04H6113",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H6113",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 356,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.325933,
+                "longitude": 88.267197
+            },
+            "lastTime": 1547367074000,
+            "outOfPath": true,
+            "routeCode": "C37:UP",
+            "speed": 20.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 74954,
+                "vehicleRegNo": "WB04H3817",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3817",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 44,
+            "crowd": "null",
+            "dataSource": "Simoco-VTU",
+            "direction": "NE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.318943,
+                "longitude": 88.267235
+            },
+            "lastTime": 1547367030000,
+            "outOfPath": false,
+            "routeCode": "GSM1:UP",
+            "speed": -2.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "depotName": "NILGUNGE",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "28 Aug 2018 06:28:02 GMT",
+                    "DriverId": "D04759"
+                },
+                "vehicleId": 770,
+                "vehicleRegNo": "WB11C5315",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB11C5315",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 183,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.319799,
+                "longitude": 88.267593
+            },
+            "lastTime": 1547367070000,
+            "outOfPath": false,
+            "routeCode": "GSM1:DN",
+            "speed": 14.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19194473,
+                "vehicleRegNo": "WB04H6214",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H6214",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 101,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.320862,
+                "longitude": 88.474922
+            },
+            "lastTime": 1547367049000,
+            "outOfPath": true,
+            "routeCode": "212:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77904,
+                "vehicleRegNo": "WB19H9064",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19H9064",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 47,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "NE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.347702,
+                "longitude": 88.077415
+            },
+            "lastTime": 1547367039000,
+            "outOfPath": null,
+            "routeCode": "S166:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78279,
+                "vehicleRegNo": "WB19E8863",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19E8863",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 254,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.347887,
+                "longitude": 88.077766
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": true,
+            "routeCode": "91:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19166408,
+                "vehicleRegNo": "WB19F7400",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F7400",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 180,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.34796,
+                "longitude": 88.076782
+            },
+            "lastTime": 1547367075000,
+            "outOfPath": true,
+            "routeCode": "46:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19166124,
+                "vehicleRegNo": "WB07J3070",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB07J3070",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 292,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.347992,
+                "longitude": 88.076988
+            },
+            "lastTime": 1547367048000,
+            "outOfPath": true,
+            "routeCode": "12C/2:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77354,
+                "vehicleRegNo": "WB07J5196",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB07J5196",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 163,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.347712,
+                "longitude": 88.080978
+            },
+            "lastTime": 1547367074000,
+            "outOfPath": true,
+            "routeCode": "91C:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183627,
+                "vehicleRegNo": "WB25E8350",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25E8350",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 89,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.348005,
+                "longitude": 88.076302
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": true,
+            "routeCode": "30D:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19166383,
+                "vehicleRegNo": "WB23D2770",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB23D2770",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 31,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "NE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.347778,
+                "longitude": 88.081078
+            },
+            "lastTime": 1547367030000,
+            "outOfPath": null,
+            "routeCode": "S166:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78270,
+                "vehicleRegNo": "WB19G7510",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G7510",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 281,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.347563,
+                "longitude": 88.080429
+            },
+            "lastTime": 1547367029000,
+            "outOfPath": true,
+            "routeCode": "KB15:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183821,
+                "vehicleRegNo": "WB053838",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB053838",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 314,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.347689,
+                "longitude": 88.080452
+            },
+            "lastTime": 1547367071000,
+            "outOfPath": true,
+            "routeCode": "KB15:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77255,
+                "vehicleRegNo": "WB053912",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB053912",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 89,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.348072,
+                "longitude": 88.076279
+            },
+            "lastTime": 1547367034000,
+            "outOfPath": true,
+            "routeCode": "30D:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183199,
+                "vehicleRegNo": "WB23D5407",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB23D5407",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 121,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "SE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.348061,
+                "longitude": 88.076492
+            },
+            "lastTime": 1547367076000,
+            "outOfPath": null,
+            "routeCode": "214A:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19166337,
+                "vehicleRegNo": "WB23B8789",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB23B8789",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 162,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.348135,
+                "longitude": 88.076347
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": true,
+            "routeCode": "78/1:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78523,
+                "vehicleRegNo": "WB23B8765",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB23B8765",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 48,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.347023,
+                "longitude": 88.081055
+            },
+            "lastTime": 1547366965000,
+            "outOfPath": true,
+            "routeCode": "222:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 181924,
+                "vehicleRegNo": "WB07J1318",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB07J1318",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 82,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.340595,
+                "longitude": 88.268425
+            },
+            "lastTime": 1547367067000,
+            "outOfPath": true,
+            "routeCode": "13:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77808,
+                "vehicleRegNo": "WB19H0343",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19H0343",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 30,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "NE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.349386,
+                "longitude": 88.269234
+            },
+            "lastTime": 1547367033000,
+            "outOfPath": null,
+            "routeCode": "KB21:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183887,
+                "vehicleRegNo": "WB04G0885",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04G0885",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 178,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.349178,
+                "longitude": 88.269226
+            },
+            "lastTime": 1547367050000,
+            "outOfPath": null,
+            "routeCode": "KB21:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183886,
+                "vehicleRegNo": "WB19G4297",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G4297",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 73,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "E",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.348644,
+                "longitude": 88.269257
+            },
+            "lastTime": 1547367074000,
+            "outOfPath": null,
+            "routeCode": "KB21:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183873,
+                "vehicleRegNo": "WB25F4363",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25F4363",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 25,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.34062,
+                "longitude": 88.451309
+            },
+            "lastTime": 1547367041000,
+            "outOfPath": true,
+            "routeCode": "47B:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78041,
+                "vehicleRegNo": "WB04F7104",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04F7104",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 282,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.336695,
+                "longitude": 88.487366
+            },
+            "lastTime": 1547367075000,
+            "outOfPath": true,
+            "routeCode": "137:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 184114,
+                "vehicleRegNo": "WB19E1520",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19E1520",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 105,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.360935,
+                "longitude": 88.113365
+            },
+            "lastTime": 1547367079000,
+            "outOfPath": true,
+            "routeCode": "1A:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 182372,
+                "vehicleRegNo": "WB19J0536",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19J0536",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 147,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.36175,
+                "longitude": 88.109177
+            },
+            "lastTime": 1547367045000,
+            "outOfPath": true,
+            "routeCode": "12C/1B:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77665,
+                "vehicleRegNo": "WB19F3154",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F3154",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 303,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "NW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.36199,
+                "longitude": 88.107338
+            },
+            "lastTime": 1547367076000,
+            "outOfPath": null,
+            "routeCode": "JM2:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77443,
+                "vehicleRegNo": "WB04E5012",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04E5012",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 208,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.36105,
+                "longitude": 88.111977
+            },
+            "lastTime": 1547367031000,
+            "outOfPath": true,
+            "routeCode": "21:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77259,
+                "vehicleRegNo": "WB04F7782",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04F7782",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 252,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.361603,
+                "longitude": 88.109253
+            },
+            "lastTime": 1547367076000,
+            "outOfPath": true,
+            "routeCode": "259:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77426,
+                "vehicleRegNo": "WB19G3799",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G3799",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 210,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.356934,
+                "longitude": 88.267616
+            },
+            "lastTime": 1547367078000,
+            "outOfPath": true,
+            "routeCode": "78:DN",
+            "speed": 40.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19166188,
+                "vehicleRegNo": "WB23C9207",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB23C9207",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 110,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.365011,
+                "longitude": 88.417114
+            },
+            "lastTime": 1547367034000,
+            "outOfPath": true,
+            "routeCode": "137:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 184099,
+                "vehicleRegNo": "WB04E3842",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04E3842",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 155,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.355619,
+                "longitude": 88.435043
+            },
+            "lastTime": 1547367061000,
+            "outOfPath": false,
+            "routeCode": "218:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78363,
+                "vehicleRegNo": "WB19F2916",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19F2916",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 158,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "SE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.355556,
+                "longitude": 88.435211
+            },
+            "lastTime": 1547367028000,
+            "outOfPath": false,
+            "routeCode": "218:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78367,
+                "vehicleRegNo": "WB19H1576",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19H1576",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 157,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.355278,
+                "longitude": 88.435242
+            },
+            "lastTime": 1547367078000,
+            "outOfPath": false,
+            "routeCode": "218:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78419,
+                "vehicleRegNo": "WB19E3587",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19E3587",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 337,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.355377,
+                "longitude": 88.435349
+            },
+            "lastTime": 1547366924000,
+            "outOfPath": false,
+            "routeCode": "218:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78341,
+                "vehicleRegNo": "WB19E3589",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19E3589",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 155,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.356001,
+                "longitude": 88.43531
+            },
+            "lastTime": 1547367030000,
+            "outOfPath": false,
+            "routeCode": "218:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78362,
+                "vehicleRegNo": "WB19E3588",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19E3588",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 157,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "E",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.355049,
+                "longitude": 88.435104
+            },
+            "lastTime": 1547367052000,
+            "outOfPath": false,
+            "routeCode": "218:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78338,
+                "vehicleRegNo": "WB25E7677",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25E7677",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 156,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "NE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.35606,
+                "longitude": 88.435425
+            },
+            "lastTime": 1547367048000,
+            "outOfPath": false,
+            "routeCode": "218:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 78364,
+                "vehicleRegNo": "WB19G1689",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19G1689",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 152,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.35033,
+                "longitude": 88.452446
+            },
+            "lastTime": 1547367079000,
+            "outOfPath": true,
+            "routeCode": "17:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77264,
+                "vehicleRegNo": "WB04F3052",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04F3052",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 117,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "SE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.358646,
+                "longitude": 88.872635
+            },
+            "lastTime": 1547367079000,
+            "outOfPath": null,
+            "routeCode": "DN16/1:UP",
+            "speed": 41.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 77594,
+                "vehicleRegNo": "WB25B2441",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25B2441",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 133,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "SE",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.356867,
+                "longitude": 88.87471
+            },
+            "lastTime": 1547367052000,
+            "outOfPath": null,
+            "routeCode": "DN16/1:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 78104,
+                "vehicleRegNo": "WB25F7162",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25F7162",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 113,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "E",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.35718,
+                "longitude": 88.874725
+            },
+            "lastTime": 1547367066000,
+            "outOfPath": null,
+            "routeCode": "DN16/1:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 78042,
+                "vehicleRegNo": "WB25G1015",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25G1015",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 327,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "NW",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.35762,
+                "longitude": 88.874687
+            },
+            "lastTime": 1547367080000,
+            "outOfPath": null,
+            "routeCode": "DN16/1:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19166431,
+                "vehicleRegNo": "WB25F7980",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25F7980",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 275,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.369146,
+                "longitude": 88.086174
+            },
+            "lastTime": 1547367071000,
+            "outOfPath": true,
+            "routeCode": "34B:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183309,
+                "vehicleRegNo": "WB23B9736",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB23B9736",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 204,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.377632,
+                "longitude": 88.10894
+            },
+            "lastTime": 1547367048000,
+            "outOfPath": true,
+            "routeCode": "21/1:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 77439,
+                "vehicleRegNo": "WB04F8636",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04F8636",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 183,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.370975,
+                "longitude": 88.271858
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": false,
+            "routeCode": "GSM1:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleId": 75347,
+                "vehicleRegNo": "WB055562",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055562",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 180,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.368208,
+                "longitude": 88.271843
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": false,
+            "routeCode": "GSM1:DN",
+            "speed": 8.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CTC",
+                "isValid": "Y",
+                "vehicleId": 75004,
+                "vehicleRegNo": "WB04H3821",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04H3821",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 190,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "S",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.381266,
+                "longitude": 88.272568
+            },
+            "lastTime": 1547367023000,
+            "outOfPath": false,
+            "routeCode": "GSM2:DN",
+            "speed": 43.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "28 Aug 2018 10:08:47 GMT",
+                    "DriverId": "TD0029"
+                },
+                "vehicleId": 75395,
+                "vehicleRegNo": "WB055538",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055538",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 0,
+            "crowd": "null",
+            "dataSource": "Chemito-VTU",
+            "direction": "N",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": true,
+            "lastLocation": {
+                "latitude": 22.368498,
+                "longitude": 88.271805
+            },
+            "lastTime": 1547367070000,
+            "outOfPath": false,
+            "routeCode": "GSM1:UP",
+            "speed": 6.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "CSTC",
+                "isValid": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverAssignedOn": "27 Aug 2018 23:58:46 GMT",
+                    "DriverId": "D04248"
+                },
+                "vehicleId": 75091,
+                "vehicleRegNo": "WB055556",
+                "vehicleRegNoAlias": "Chemito-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB055556",
+            "vehicleType": "BUS",
+            "violatesPath": "false"
+        },
+        {
+            "angle": 74,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.381567,
+                "longitude": 88.410088
+            },
+            "lastTime": 1547367074000,
+            "outOfPath": true,
+            "routeCode": "S104:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleAdditionalInfo": {
+                    "DriverName": "",
+                    "DriverPhone": ""
+                },
+                "vehicleId": 78119,
+                "vehicleRegNo": "WB04C9236",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB04C9236",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 314,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": null,
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.381027,
+                "longitude": 88.422356
+            },
+            "lastTime": 1547366836000,
+            "outOfPath": true,
+            "routeCode": "228:DN",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 183853,
+                "vehicleRegNo": "WB19H0374",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB19H0374",
+            "vehicleType": "BUS",
+            "violatesPath": "true"
+        },
+        {
+            "angle": 89,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "E",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.381887,
+                "longitude": 88.479851
+            },
+            "lastTime": 1547367072000,
+            "outOfPath": null,
+            "routeCode": "214A:UP",
+            "speed": 0.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 19166345,
+                "vehicleRegNo": "WB23D8250",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB23D8250",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        },
+        {
+            "angle": 258,
+            "crowd": "null",
+            "dataSource": "Chalo-VTU",
+            "direction": "W",
+            "distanceToDestinationStop": 0.0,
+            "eventLocation": null,
+            "journeyStarted": false,
+            "lastLocation": {
+                "latitude": 22.376064,
+                "longitude": 88.804344
+            },
+            "lastTime": 1547367073000,
+            "outOfPath": null,
+            "routeCode": "DN16/1:UP",
+            "speed": 44.0,
+            "stopped": false,
+            "tags": [],
+            "timeToDestinationStop": 0,
+            "vehicle": {
+                "agencyName": "Kolkata Traffic Police",
+                "isValid": "Y",
+                "publiclyVisible": "Y",
+                "vehicleId": 77922,
+                "vehicleRegNo": "WB25B2810",
+                "vehicleRegNoAlias": "Chalo-VTU",
+                "vehicleType": "BUS"
+            },
+            "vehicleNo": "WB25B2810",
+            "vehicleType": "BUS",
+            "violatesPath": ""
+        }
+    ],
+    "duration": 11882,
+    "message": "",
+    "requestId": null,
+    "status": "SUCCESS",
+    "stop": null
+}

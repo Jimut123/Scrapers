@@ -1,0 +1,19 @@
+{
+    "count": 0,
+    "duration": 8,
+    "message": "",
+    "pathadishaAppVersion": "1.6.2",
+    "pathadishaTabItems": {
+        "ambulance": false,
+        "bookfair": false,
+        "bus": true,
+        "fifa": false,
+        "pujo": false,
+        "pujoshopping": true,
+        "tram": false
+    },
+    "requestId": "deef67e7-9cb0-4df1-a3fe-57d204b3c248",
+    "routeUpdateTime": 1547202203000,
+    "status": "SUCCESS",
+    "stopUpdateTime": 1547041181000
+}

@@ -1,0 +1,579 @@
+{
+    "junctions": [
+        {
+            "cardinality": 0,
+            "parentStation": 80,
+            "stopId": 183,
+            "stopLat": 22.565731,
+            "stopLon": 88.368938,
+            "stopName": "SEALDAH"
+        },
+        {
+            "cardinality": 0,
+            "parentStation": 94,
+            "stopId": 138,
+            "stopLat": 22.585277,
+            "stopLon": 88.374721,
+            "stopName": "MANIKTALA"
+        },
+        {
+            "cardinality": 0,
+            "parentStation": 168,
+            "stopId": 168,
+            "stopLat": 22.576589,
+            "stopLon": 88.37353,
+            "stopName": "RAJABAZAR"
+        },
+        {
+            "cardinality": 0,
+            "parentStation": 94,
+            "stopId": 123,
+            "stopLat": 22.594102,
+            "stopLon": 88.375375,
+            "stopName": "KHANNA"
+        },
+        {
+            "cardinality": 0,
+            "parentStation": 94,
+            "stopId": 88,
+            "stopLat": 22.585286,
+            "stopLon": 88.372307,
+            "stopName": "GANGA RAM"
+        }
+    ],
+    "message": "SUCCESS",
+    "trips": [
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 7599,
+                    "endStopNameOfHop": "SEALDAH",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1687
+                },
+                {
+                    "distance": 9506,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "45B:DN",
+                    "startStopNameOfHop": "SEALDAH",
+                    "travelFare": 0.0,
+                    "travelTime": 1809
+                }
+            ],
+            "junctionId": 183,
+            "routes": "30B:DN; 45B:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 17105,
+            "totalFare": 0.0,
+            "totalTime": 3496
+        },
+        {
+            "endStopOfTrip": "CHARU MARKET/RABINDRA SARABAR",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 7599,
+                    "endStopNameOfHop": "SEALDAH",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1687
+                },
+                {
+                    "distance": 9315,
+                    "endStopNameOfHop": "CHARU MARKET/RABINDRA SARABAR",
+                    "routeName": "K3:DN",
+                    "startStopNameOfHop": "SEALDAH",
+                    "travelFare": 0.0,
+                    "travelTime": 1906
+                }
+            ],
+            "junctionId": 183,
+            "routes": "30B:DN; K3:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 16914,
+            "totalFare": 0.0,
+            "totalTime": 3593
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 5083,
+                    "endStopNameOfHop": "MANIKTALA",
+                    "routeName": "30B/1:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1094
+                },
+                {
+                    "distance": 14174,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "K3:DN",
+                    "startStopNameOfHop": "MANIKTALA",
+                    "travelFare": 0.0,
+                    "travelTime": 2514
+                }
+            ],
+            "junctionId": 138,
+            "routes": "30B/1:DN; K3:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 19257,
+            "totalFare": 0.0,
+            "totalTime": 3608
+        },
+        {
+            "endStopOfTrip": "CHARU MARKET/RABINDRA SARABAR",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 7599,
+                    "endStopNameOfHop": "SEALDAH",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1687
+                },
+                {
+                    "distance": 9106,
+                    "endStopNameOfHop": "CHARU MARKET/RABINDRA SARABAR",
+                    "routeName": "18B:DN",
+                    "startStopNameOfHop": "SEALDAH",
+                    "travelFare": 0.0,
+                    "travelTime": 1968
+                }
+            ],
+            "junctionId": 183,
+            "routes": "30B:DN; 18B:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 16705,
+            "totalFare": 0.0,
+            "totalTime": 3655
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 6297,
+                    "endStopNameOfHop": "RAJABAZAR",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1359
+                },
+                {
+                    "distance": 11860,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "K3:DN",
+                    "startStopNameOfHop": "RAJABAZAR",
+                    "travelFare": 0.0,
+                    "travelTime": 2307
+                }
+            ],
+            "junctionId": 168,
+            "routes": "30B:DN; K3:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 18157,
+            "totalFare": 0.0,
+            "totalTime": 3666
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 5083,
+                    "endStopNameOfHop": "MANIKTALA",
+                    "routeName": "30B/1:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1094
+                },
+                {
+                    "distance": 13886,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "18B:DN",
+                    "startStopNameOfHop": "MANIKTALA",
+                    "travelFare": 0.0,
+                    "travelTime": 2604
+                }
+            ],
+            "junctionId": 138,
+            "routes": "30B/1:DN; 18B:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 18969,
+            "totalFare": 0.0,
+            "totalTime": 3698
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 7599,
+                    "endStopNameOfHop": "SEALDAH",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1687
+                },
+                {
+                    "distance": 12317,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "AC17:DN",
+                    "startStopNameOfHop": "SEALDAH",
+                    "travelFare": 0.0,
+                    "travelTime": 2058
+                }
+            ],
+            "junctionId": 183,
+            "routes": "30B:DN; AC17:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 19916,
+            "totalFare": 0.0,
+            "totalTime": 3745
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 6297,
+                    "endStopNameOfHop": "RAJABAZAR",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1359
+                },
+                {
+                    "distance": 11572,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "18B:DN",
+                    "startStopNameOfHop": "RAJABAZAR",
+                    "travelFare": 0.0,
+                    "travelTime": 2397
+                }
+            ],
+            "junctionId": 168,
+            "routes": "30B:DN; 18B:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 17869,
+            "totalFare": 0.0,
+            "totalTime": 3756
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 4865,
+                    "endStopNameOfHop": "KHANNA",
+                    "routeName": "11A:UP",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1201
+                },
+                {
+                    "distance": 15166,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "K3:DN",
+                    "startStopNameOfHop": "KHANNA",
+                    "travelFare": 0.0,
+                    "travelTime": 2731
+                }
+            ],
+            "junctionId": 123,
+            "routes": "11A:UP; K3:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 20031,
+            "totalFare": 0.0,
+            "totalTime": 3932
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 5083,
+                    "endStopNameOfHop": "MANIKTALA",
+                    "routeName": "30B/1:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1094
+                },
+                {
+                    "distance": 16626,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "47/2:DN",
+                    "startStopNameOfHop": "MANIKTALA",
+                    "travelFare": 0.0,
+                    "travelTime": 2915
+                }
+            ],
+            "junctionId": 138,
+            "routes": "30B/1:DN; 47/2:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 21709,
+            "totalFare": 0.0,
+            "totalTime": 4009
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 5321,
+                    "endStopNameOfHop": "MANIKTALA",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1164
+                },
+                {
+                    "distance": 16626,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "47/2:DN",
+                    "startStopNameOfHop": "MANIKTALA",
+                    "travelFare": 0.0,
+                    "travelTime": 2915
+                }
+            ],
+            "junctionId": 138,
+            "routes": "30B:DN; 47/2:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 21947,
+            "totalFare": 0.0,
+            "totalTime": 4079
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 7599,
+                    "endStopNameOfHop": "SEALDAH",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1687
+                },
+                {
+                    "distance": 16598,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "21:DN",
+                    "startStopNameOfHop": "SEALDAH",
+                    "travelFare": 0.0,
+                    "travelTime": 2822
+                }
+            ],
+            "junctionId": 183,
+            "routes": "30B:DN; 21:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 24197,
+            "totalFare": 0.0,
+            "totalTime": 4509
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 7599,
+                    "endStopNameOfHop": "SEALDAH",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1687
+                },
+                {
+                    "distance": 9999,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "188:DN",
+                    "startStopNameOfHop": "SEALDAH",
+                    "travelFare": 0.0,
+                    "travelTime": 3758
+                }
+            ],
+            "junctionId": 183,
+            "routes": "30B:DN; 188:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 17598,
+            "totalFare": 0.0,
+            "totalTime": 5445
+        },
+        {
+            "endStopOfTrip": "CHARU MARKET/RABINDRA SARABAR",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 7599,
+                    "endStopNameOfHop": "SEALDAH",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1687
+                },
+                {
+                    "distance": 12651,
+                    "endStopNameOfHop": "CHARU MARKET/RABINDRA SARABAR",
+                    "routeName": "47/1:DN",
+                    "startStopNameOfHop": "SEALDAH",
+                    "travelFare": 0.0,
+                    "travelTime": 4145
+                }
+            ],
+            "junctionId": 183,
+            "routes": "30B:DN; 47/1:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 20250,
+            "totalFare": 0.0,
+            "totalTime": 5832
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 5083,
+                    "endStopNameOfHop": "MANIKTALA",
+                    "routeName": "30B/1:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1094
+                },
+                {
+                    "distance": 16685,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "47/1:DN",
+                    "startStopNameOfHop": "MANIKTALA",
+                    "travelFare": 0.0,
+                    "travelTime": 4759
+                }
+            ],
+            "junctionId": 138,
+            "routes": "30B/1:DN; 47/1:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 21768,
+            "totalFare": 0.0,
+            "totalTime": 5853
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 5451,
+                    "endStopNameOfHop": "GANGA RAM",
+                    "routeName": "30B/1:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1254
+                },
+                {
+                    "distance": 14201,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "234/1:DN",
+                    "startStopNameOfHop": "GANGA RAM",
+                    "travelFare": 0.0,
+                    "travelTime": 4617
+                }
+            ],
+            "junctionId": 88,
+            "routes": "30B/1:DN; 234/1:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 19652,
+            "totalFare": 0.0,
+            "totalTime": 5871
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 6297,
+                    "endStopNameOfHop": "RAJABAZAR",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1359
+                },
+                {
+                    "distance": 14371,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "47/1:DN",
+                    "startStopNameOfHop": "RAJABAZAR",
+                    "travelFare": 0.0,
+                    "travelTime": 4553
+                }
+            ],
+            "junctionId": 168,
+            "routes": "30B:DN; 47/1:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 20668,
+            "totalFare": 0.0,
+            "totalTime": 5912
+        },
+        {
+            "endStopOfTrip": "CHARU MARKET/RABINDRA SARABAR",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 7599,
+                    "endStopNameOfHop": "SEALDAH",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1687
+                },
+                {
+                    "distance": 33037,
+                    "endStopNameOfHop": "CHARU MARKET/RABINDRA SARABAR",
+                    "routeName": "S122:DN",
+                    "startStopNameOfHop": "SEALDAH",
+                    "travelFare": 0.0,
+                    "travelTime": 5106
+                }
+            ],
+            "junctionId": 183,
+            "routes": "30B:DN; S122:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 40636,
+            "totalFare": 0.0,
+            "totalTime": 6793
+        },
+        {
+            "endStopOfTrip": "TOLLYGUNGE (PHARI)",
+            "hopCount": 1,
+            "hops": [
+                {
+                    "distance": 6297,
+                    "endStopNameOfHop": "RAJABAZAR",
+                    "routeName": "30B:DN",
+                    "startStopNameOfHop": "DUMDUM RLY STN",
+                    "travelFare": 0.0,
+                    "travelTime": 1359
+                },
+                {
+                    "distance": 35582,
+                    "endStopNameOfHop": "TOLLYGUNGE (PHARI)",
+                    "routeName": "S122:DN",
+                    "startStopNameOfHop": "RAJABAZAR",
+                    "travelFare": 0.0,
+                    "travelTime": 5507
+                }
+            ],
+            "junctionId": 168,
+            "routes": "30B:DN; S122:DN",
+            "startStopOfTrip": "DUMDUM RLY STN",
+            "totalDistance": 41879,
+            "totalFare": 0.0,
+            "totalTime": 6866
+        }
+    ]
+}
